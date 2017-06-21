@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://providence.voxmedia.com/ => https://providence.voxmedia.com/: (7, 'Failed to connect to providence.voxmedia.com port 443: Connection timed out')
-
 	For rules covering more than resources, see Vox_Media.com.xml.
 
 	Note: platform is so as not to increase non-Tor
@@ -10,7 +6,7 @@ Fetch error: http://providence.voxmedia.com/ => https://providence.voxmedia.com/
 	and no mixed content secured.
 
 -->
-<ruleset name="Vox Media.com (resources)" platform="mixedcontent" default_off='failed ruleset test'>
+<ruleset name="Vox Media.com (resources)" platform="mixedcontent">
 
 	<target host="voxmedia.com" />
 	<target host="ea-cdn.voxmedia.com" />

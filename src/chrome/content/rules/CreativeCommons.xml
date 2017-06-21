@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://stats.creativecommons.org/ => https://stats.creativecommons.org/: (60, 'SSL certificate problem: certificate has expired')
-
 
 	Nonfunctional domains:
 
@@ -19,7 +15,7 @@ Fetch error: http://stats.creativecommons.org/ => https://stats.creativecommons.
 	es.creativecommons.org, and us.creativecommons.org) do not fully support HTTPS.
 
 -->
-<ruleset name="Creative Commons (partial)" default_off='failed ruleset test'>
+<ruleset name="Creative Commons (partial)">
 
 	<target host="creativecommons.net" />
 	<target host="creativecommons.org" />

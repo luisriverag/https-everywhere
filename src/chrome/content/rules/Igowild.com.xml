@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://igowild.com/ => https://igowild.com/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://www.igowild.com/ => https://www.igowild.com/: (60, 'SSL certificate problem: certificate has expired')
-
--->
-<ruleset name="igowild.com" default_off='failed ruleset test'>
+<ruleset name="igowild.com">
 
 	<!--	Direct rewrites:
 				-->

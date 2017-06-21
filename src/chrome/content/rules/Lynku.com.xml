@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://images.lynku.com/ => https://shop.look.co.uk/: (7, 'Failed to connect to shop.look.co.uk port 443: Connection timed out')
-
 	CDN buckets:
 
 		- 843299975.r.cdn77.net
@@ -15,7 +11,7 @@ Fetch error: http://images.lynku.com/ => https://shop.look.co.uk/: (7, 'Failed t
 		- images	(mismatched, CN: shop.look.co.uk)
 
 -->
-<ruleset name="Lynku.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Lynku.com (partial)">
 
 	<target host="images.lynku.com" />
 

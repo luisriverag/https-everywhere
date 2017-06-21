@@ -1,13 +1,8 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://domainsite.com/ => https://domainsite.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://www.domainsite.com/ => https://www.domainsite.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	For other Name.com coverage, see Name.com.xml.
 
 -->
-<ruleset name="DomainSite.com" default_off='failed ruleset test'>
+<ruleset name="DomainSite.com">
 
 	<target host="domainsite.com" />
 	<target host="www.domainsite.com" />

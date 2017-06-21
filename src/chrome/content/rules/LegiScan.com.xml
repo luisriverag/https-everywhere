@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://acme.legiscan.com/ => https://acme.legiscan.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Fully covered hosts in *legiscan.com:
 
 		- (www.)?
@@ -14,7 +10,7 @@ Fetch error: http://acme.legiscan.com/ => https://acme.legiscan.com/: (60, 'SSL 
 		- .legiscan.com
 
 -->
-<ruleset name="LegiScan.com" default_off='failed ruleset test'>
+<ruleset name="LegiScan.com">
 
 	<!--	Direct rewrites:
 				-->

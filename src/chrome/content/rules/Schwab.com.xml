@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://schwab.com/ => https://schwab.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Other Schwab rulesets:
 
 		- Schwab_CDN.com.xml
@@ -31,7 +27,7 @@ Fetch error: http://schwab.com/ => https://schwab.com/: (60, 'SSL certificate pr
 	* Secured by us
 
 -->
-<ruleset name="Schwab.com" default_off='failed ruleset test'>
+<ruleset name="Schwab.com">
 
 	<target host="schwab.com" />
 	<target host="*.schwab.com" />

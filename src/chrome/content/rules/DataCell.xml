@@ -11,7 +11,7 @@ Fetch error: http://www.datacell.is/ => https://www.datacell.com/: (60, 'SSL cer
 	* Cert only matches *.datacell.com
 
 -->
-<ruleset name="DataCell" platform="mixedcontent">
+<ruleset name="DataCell" platform="mixedcontent" default_off='failed ruleset test'>
 
 	<target host="datacell.com" />
 	<target host="*.datacell.com" />

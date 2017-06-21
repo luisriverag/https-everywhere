@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://damballa.com/ => https://damballa.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://www.damballa.com/ => https://www.damballa.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Problematic hosts:
 
 		- partner *
@@ -16,7 +11,7 @@ Fetch error: http://www.damballa.com/ => https://www.damballa.com/: (60, 'SSL ce
 		- .damballa.com
 
 -->
-<ruleset name="Damballa.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Damballa.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

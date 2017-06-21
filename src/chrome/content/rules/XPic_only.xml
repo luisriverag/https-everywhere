@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://xpiconly.com/ => https://xpiconly.com/: (28, 'Operation timed out after 30001 milliseconds with 0 bytes received')
-Fetch error: http://www.xpiconly.com/ => https://www.xpiconly.com/: (28, 'Operation timed out after 30002 milliseconds with 0 bytes received')
-
--->
-<ruleset name="XPic only.com" default_off='failed ruleset test'>
+<ruleset name="XPic only.com">
 
 	<!--	Direct rewrites:
 				-->

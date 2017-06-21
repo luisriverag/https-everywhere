@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://matsuev.com/ => https://matsuev.com/: (60, 'SSL certificate problem: self signed certificate')
-Fetch error: http://www.matsuev.com/ => https://www.matsuev.com/: (60, 'SSL certificate problem: self signed certificate')
-
--->
-<ruleset name="Denis Matsuev" default_off='failed ruleset test'>
+<ruleset name="Denis Matsuev">
 
 	<target host="matsuev.com" />
 	<target host="www.matsuev.com" />

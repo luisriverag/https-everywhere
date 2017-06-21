@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://nd.edu/ => https://nd.edu/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Nonfunctional subdomains:
 
 		- ace ¹
@@ -380,7 +376,7 @@ Fetch error: http://nd.edu/ => https://nd.edu/: (60, 'SSL certificate problem: u
 	³ Unsecurable
 
 -->
-<ruleset name="University of Notre Dame (partial)" default_off='failed ruleset test'>
+<ruleset name="University of Notre Dame (partial)">
 
 	<target host="nd.edu" />
 	<target host="*.nd.edu" />

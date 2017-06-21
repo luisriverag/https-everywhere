@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://chdir.org/ => https://chdir.org/: (6, 'Could not resolve host: chdir.org')
-
 	Nonfunctional subdomains:
 
 		- justanothergeek *
@@ -20,7 +16,7 @@ Fetch error: http://chdir.org/ => https://chdir.org/: (6, 'Could not resolve hos
 	* Secured by us
 
 -->
-<ruleset name="chdir.org (partial)" default_off='failed ruleset test'>
+<ruleset name="chdir.org (partial)">
 
 	<target host="chdir.org" />
 	<target host="*.chdir.org" />

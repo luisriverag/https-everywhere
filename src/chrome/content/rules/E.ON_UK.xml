@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://stats.eon-uk.com/ => https://stats.eon-uk.com/: (28, 'Operation timed out after 30001 milliseconds with 0 bytes received')
-
 	Nonfunctional subdomains:
 
 		- pressreleases		(times out)
@@ -11,7 +7,7 @@ Fetch error: http://stats.eon-uk.com/ => https://stats.eon-uk.com/: (28, 'Operat
 	Some pages redirect to http.
 
 -->
-<ruleset name="E.ON UK (partial)" default_off='failed ruleset test'>
+<ruleset name="E.ON UK (partial)">
 
 	<target host="eon-uk.com" />
 	<target host="stats.eon-uk.com" />

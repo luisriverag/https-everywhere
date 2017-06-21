@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.redcoon.pt/ => https://www.redcoon.pt/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://redcoon.pt/ => https://www.redcoon.pt/: (60, 'SSL certificate problem: certificate has expired')
-
 	^redcoon.pt: Expired, mismatched
 
 
@@ -14,7 +9,7 @@ Fetch error: http://redcoon.pt/ => https://www.redcoon.pt/: (60, 'SSL certificat
 	* Secured by us
 
 -->
-<ruleset name="Redcoon.pt" default_off='failed ruleset test'>
+<ruleset name="Redcoon.pt">
 
 	<!--	Direct rewrites:
 				-->

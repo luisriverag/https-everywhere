@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://barnesjewish.org/ => http://barnesjewish.org/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://www.barnesjewish.org/ => http://www.barnesjewish.org/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Problematic domains:
 
 		- ^		("application error", valid cert)
@@ -13,7 +8,7 @@ Fetch error: http://www.barnesjewish.org/ => http://www.barnesjewish.org/: (60, 
 	Some pages redirect to http
 
 -->
-<ruleset name="Barnes-Jewish Hospital (partial)" default_off='failed ruleset test'>
+<ruleset name="Barnes-Jewish Hospital (partial)">
 
 	<target host="barnesjewish.org" />
 	<target host="www.barnesjewish.org" />

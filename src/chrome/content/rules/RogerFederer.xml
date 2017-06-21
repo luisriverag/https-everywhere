@@ -1,14 +1,10 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://rogerfederershop.com/ => https://rogerfederershop.com/: (51, "SSL: no alternative certificate subject name matches target host name 'rogerfederershop.com'")
-
 	Mismatch:
 		- *.rogerfederer.ch
 		- *.rogerfederer.com
 		- *.rogerfedererfoundation.org
 -->
-<ruleset name="Roger Federer" default_off='failed ruleset test'>
+<ruleset name="Roger Federer">
 	<target host="rogerfederershop.com"/>
 	<target host="www.rogerfederershop.com"/>
 

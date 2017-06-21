@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://telepigeon.com/ => https://telepigeon.com/: (28, 'Connection timed out after 20000 milliseconds')
-Fetch error: http://www.telepigeon.com/ => https://www.telepigeon.com/: (28, 'Connection timed out after 20000 milliseconds')
-
 	Fully covered hosts in *telepigeon.com:
 
 		- (www.)?
@@ -15,7 +10,7 @@ Fetch error: http://www.telepigeon.com/ => https://www.telepigeon.com/: (28, 'Co
 		- www.telepigeon.com
 
 -->
-<ruleset name="Telepigeon.com" default_off='failed ruleset test'>
+<ruleset name="Telepigeon.com">
 
 	<!--	Direct rewrites:
 				-->

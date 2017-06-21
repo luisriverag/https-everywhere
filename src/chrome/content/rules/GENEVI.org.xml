@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://genivi.org/ => https://genivi.org/: (51, "SSL: no alternative certificate subject name matches target host name 'genivi.org'")
-
 	GENIVI Alliance
 
 	For rules causing false/broken MCB, see GENEVI.org-falsemixed.xml.
@@ -33,7 +29,7 @@ Fetch error: http://genivi.org/ => https://genivi.org/: (51, "SSL: no alternativ
 	* Secured by us
 
 -->
-<ruleset name="GENEVI.org (partial)" default_off='failed ruleset test'>
+<ruleset name="GENEVI.org (partial)">
 
 	<target host="genivi.org" />
 	<target host="*.genivi.org" />

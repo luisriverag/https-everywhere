@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://100ideen.migros.ch/ => https://100ideen.migros.ch/: (60, 'SSL certificate problem: self signed certificate')
-Fetch error: http://farmmania.migros.ch/ => https://farmmania.migros.ch/: (51, "SSL: no alternative certificate subject name matches target host name 'farmmania.migros.ch'")
-Fetch error: http://leger.migros.ch/ => https://leger.migros.ch/: (51, "SSL: no alternative certificate subject name matches target host name 'leger.migros.ch'")
-
 	Other Migros rulesets:
 		- Chocolatfrey.ch.xml
 		- Doitgarden.ch.xml
@@ -63,7 +57,7 @@ Fetch error: http://leger.migros.ch/ => https://leger.migros.ch/: (51, "SSL: no 
 	Connection reset:
 		- dev.m-connect.ch
 -->
-<ruleset name="Migros" default_off='failed ruleset test'>
+<ruleset name="Migros">
 	<target host="migros.ch"/>
 	<target host="www.migros.ch"/>
 	<target host="100ideen.migros.ch"/>

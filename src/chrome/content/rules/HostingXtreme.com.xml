@@ -1,15 +1,10 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://hostingxtreme.com/ => https://hostingxtreme.com/: (28, 'Operation timed out after 30002 milliseconds with 0 bytes received')
-Fetch error: http://www.hostingxtreme.com/ => https://www.hostingxtreme.com/: (28, 'Operation timed out after 30001 milliseconds with 0 bytes received')
-
 	Nonfunctional subdomains:
 
 		- news	(http reply)
 
 -->
-<ruleset name="HostingXtreme.com (partial)" default_off='failed ruleset test'>
+<ruleset name="HostingXtreme.com (partial)">
 
 	<target host="hostingxtreme.com" />
 	<target host="www.hostingxtreme.com" />

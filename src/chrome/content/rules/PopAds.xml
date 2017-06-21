@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://world.popads.net/ => https://world.popads.net/: (6, 'Could not resolve host: world.popads.net')
-
 	Other PopAds rulesets:
 
 		- PopAds_CDN.net.xml
@@ -39,7 +35,7 @@ Fetch error: http://world.popads.net/ => https://world.popads.net/: (6, 'Could n
 		- world
 
 -->
-<ruleset name="PopAds.net" default_off='failed ruleset test'>
+<ruleset name="PopAds.net">
 
 	<!--	Direct rewrites:
 				-->

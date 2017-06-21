@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://reservations.mgmmirage.com/ (200) => https://reservations.mgmmirage.com/ (403)
-
 	Insecure cookies are set for these domains: ᶜ
 
 		- .mgmmirage.com
@@ -11,7 +7,7 @@ Non-2xx HTTP code: http://reservations.mgmmirage.com/ (200) => https://reservati
 	ˢ Secured by us, see https://www.paulirish.com/2010/the-protocol-relative-url/
 
 -->
-<ruleset name="mgmmirage.com" default_off='failed ruleset test'>
+<ruleset name="mgmmirage.com">
 
 	<target host="reservations.mgmmirage.com" />
 

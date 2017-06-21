@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://weheartit.com/ => https://weheartit.com/: Too many redirects while fetching 'https://weheartit.com/'
-Fetch error: http://m.weheartit.com/ => https://m.weheartit.com/: Too many redirects while fetching 'https://m.weheartit.com/'
-Fetch error: http://www.weheartit.com/ => https://www.weheartit.com/: Too many redirects while fetching 'https://www.weheartit.com/'
-
 	Other We Heart It rulesets:
 
 		- WHI_CDN.com.xml
@@ -27,7 +21,7 @@ Fetch error: http://www.weheartit.com/ => https://www.weheartit.com/: Too many r
 	* Secured by us
 
 -->
-<ruleset name="We Heart It.com" default_off='failed ruleset test'>
+<ruleset name="We Heart It.com">
 
 	<target host="weheartit.com" />
 	<target host="m.weheartit.com" />

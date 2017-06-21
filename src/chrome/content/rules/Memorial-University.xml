@@ -1,15 +1,11 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.cs.mun.ca/courses/ => https://www.cs.mun.ca/courses/: (60, 'SSL certificate problem: certificate has expired')
-
 	Problematic subdomains:
 
 		- www.ucs ¹
 
 	¹: Connection timeout
 -->
-<ruleset name="Memorial University" default_off='failed ruleset test'>
+<ruleset name="Memorial University">
 	<target host="*.mun.ca" />
 
 	<exclusion pattern="^http://www.ucs.mun.ca/" />

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://cdn.adexcite.com/ (200) => https://adexcite.s3.amazonaws.com/ (404)
-
 	CDN buckets:
 
 		- adexcite.s3.amazonaws.com
@@ -16,7 +12,7 @@ Non-2xx HTTP code: http://cdn.adexcite.com/ (200) => https://adexcite.s3.amazona
 		- admin
 
 -->
-<ruleset name="AdExcite (partial)" default_off='failed ruleset test'>
+<ruleset name="AdExcite (partial)">
 
 	<target host="cdn.adexcite.com" />
 

@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://appiehein.com/ => https://appiehein.com/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://www.appiehein.com/ => https://www.appiehein.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	Mixed content:
 
 		- Bugs from www.shopmania.es *
@@ -11,7 +6,7 @@ Fetch error: http://www.appiehein.com/ => https://www.appiehein.com/: (60, 'SSL 
 	* Secured by us
 
 -->
-<ruleset name="Appie Hein.com" default_off='failed ruleset test'>
+<ruleset name="Appie Hein.com">
 
 	<target host="appiehein.com" />
 	<target host="www.appiehein.com" />

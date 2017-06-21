@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://remote.modern.ie/ => https://remote.modern.ie/: (6, 'Could not resolve host: remote.modern.ie')
-
 	For other Microsoft coverage, see Microsoft.xml.
 
 
@@ -30,7 +26,7 @@ Fetch error: http://remote.modern.ie/ => https://remote.modern.ie/: (6, 'Could n
 	* Secured by us
 
 -->
-<ruleset name="modern.IE" default_off='failed ruleset test'>
+<ruleset name="modern.IE">
 
 	<!--	Direct rewrites:
 				-->

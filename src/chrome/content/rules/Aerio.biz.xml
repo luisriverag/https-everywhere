@@ -1,12 +1,8 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.aerio.biz/ => https://www.aerio.biz/: (6, 'Could not resolve host: www.aerio.biz')
-
 	^aerio.biz doesn't exist.
 
 -->
-<ruleset name="aerio.biz" default_off='failed ruleset test'>
+<ruleset name="aerio.biz">
 
 	<target host="www.aerio.biz" />
 

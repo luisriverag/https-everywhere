@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://hotels.zuji.com.hk/ => https://hotels.zuji.com.hk/: (6, 'Could not resolve host: hotels.zuji.com.hk')
-Fetch error: http://packages.zuji.com.hk/ => https://packages.zuji.com.hk/: (6, 'Could not resolve host: packages.zuji.com.hk')
-
 	Non-functional hosts
 		Couldn't connect to server:
 			 - cms.zuji.com.hk
@@ -20,7 +15,7 @@ Fetch error: http://packages.zuji.com.hk/ => https://packages.zuji.com.hk/: (6, 
 		Different content:
 			 - autodiscover.zuji.com.hk
 -->
-<ruleset name="Zuji HK (partial)" default_off='failed ruleset test'>
+<ruleset name="Zuji HK (partial)">
 	<target host="zuji.com.hk" />
 	<target host="www.zuji.com.hk" />
 	<target host="admin.zuji.com.hk" />

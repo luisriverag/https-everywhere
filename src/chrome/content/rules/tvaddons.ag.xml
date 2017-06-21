@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://tvaddons.ag/ => https://tvaddons.ag/: (6, 'Could not resolve host: tvaddons.ag')
-Fetch error: http://logs.tvaddons.ag/ => https://logs.tvaddons.ag/: (6, 'Could not resolve host: logs.tvaddons.ag')
-Fetch error: http://www.tvaddons.ag/ => https://www.tvaddons.ag/: (6, 'Could not resolve host: www.tvaddons.ag')
-
 	Insecure cookies are set for these hosts: ᶜ
 
 		- logs.tvaddons.ag
@@ -12,7 +6,7 @@ Fetch error: http://www.tvaddons.ag/ => https://www.tvaddons.ag/: (6, 'Could not
 	ᶜ See https://owasp.org/index.php/SecureFlag
 
 -->
-<ruleset name="TV Addons.ag" default_off='failed ruleset test'>
+<ruleset name="TV Addons.ag">
 
 	<target host="tvaddons.ag" />
 	<target host="logs.tvaddons.ag" />

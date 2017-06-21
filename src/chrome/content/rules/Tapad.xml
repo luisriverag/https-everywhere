@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://tapad.app10.hubspot.com/ => https://tapad.app10.hubspot.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	tapad.app10.hubspot.com
 
 
@@ -25,7 +21,7 @@ Fetch error: http://tapad.app10.hubspot.com/ => https://tapad.app10.hubspot.com/
 		- .tapad.com
 
 -->
-<ruleset name="Tapad (partial)" default_off='failed ruleset test'>
+<ruleset name="Tapad (partial)">
 
 	<!--	Direct rewrites:
 				-->

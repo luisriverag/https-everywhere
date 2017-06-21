@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://m.fifedirect.org.uk/ => https://m.fifedirect.org.uk/: (6, 'Could not resolve host: m.fifedirect.org.uk')
-
 	Fife Council
 
 	For other UK government coverage, see GOV.UK.xml.
@@ -24,7 +20,7 @@ Fetch error: http://m.fifedirect.org.uk/ => https://m.fifedirect.org.uk/: (6, 'C
 	⁴ Unsecurable <= 404
 
 -->
-<ruleset name="Fife Direct.org.uk" default_off='failed ruleset test'>
+<ruleset name="Fife Direct.org.uk">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://store.snort.org/ => https://store.snort.org/: (6, 'Could not resolve host: store.snort.org')
-
 	Nonfunctional hosts in *snort.org:
 
 		- blog *
@@ -11,7 +7,7 @@ Fetch error: http://store.snort.org/ => https://store.snort.org/: (6, 'Could not
 	* Blogger
 
 -->
-<ruleset name="Snort.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Snort.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

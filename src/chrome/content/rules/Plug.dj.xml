@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://tech.plug.dj/ => https://tech.plug.dj/: (51, "SSL: no alternative certificate subject name matches target host name 'tech.plug.dj'")
-
 	Nonfunctional subdomains:
 
 		- support *
@@ -17,7 +13,7 @@ Fetch error: http://tech.plug.dj/ => https://tech.plug.dj/: (51, "SSL: no altern
 	* Unsecureable <= refused
 
 -->
-<ruleset name="plug.dj (partial)" default_off='failed ruleset test'>
+<ruleset name="plug.dj (partial)">
 
 	<target host="plug.dj" />
 	<target host="www.plug.dj" />

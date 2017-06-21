@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://cdn.cdncomputer.com/ => https://d1eiwcwqdd4h4w.cloudfront.net/: (28, 'Operation timed out after 30001 milliseconds with 0 bytes received')
-
 	For other Oversee.net coverage, see Oversee.xml.
 
 
@@ -16,7 +12,7 @@ Fetch error: http://cdn.cdncomputer.com/ => https://d1eiwcwqdd4h4w.cloudfront.ne
 	(www.) does not exist.
 
 -->
-<ruleset name="cdncomputer.com" default_off='failed ruleset test'>
+<ruleset name="cdncomputer.com">
 
 	<target host="cdn.cdncomputer.com" />
 

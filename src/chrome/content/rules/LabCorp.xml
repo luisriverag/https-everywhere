@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://hypersend.labcorp.com/ => https://hypersend.labcorp.com/: (28, 'Connection timed out after 20001 milliseconds')
-
 	Other LabCorp rulesets:
 
 		- LabCorp_solutions.com.xml
@@ -16,7 +12,7 @@ Fetch error: http://hypersend.labcorp.com/ => https://hypersend.labcorp.com/: (2
 		- www.labcorp.com
 
 -->
-<ruleset name="LabCorp.com" default_off='failed ruleset test'>
+<ruleset name="LabCorp.com">
 
 	<!--	Direct rewrites:
 				-->

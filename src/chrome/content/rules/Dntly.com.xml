@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://dntly.com/ => https://dntly.com/: (28, 'Connection timed out after 20000 milliseconds')
-
 	CDN buckets:
 
 		- donatelyproduction.s3.amazonaws.com
@@ -15,7 +11,7 @@ Fetch error: http://dntly.com/ => https://dntly.com/: (28, 'Connection timed out
 	* Secured by us
 
 -->
-<ruleset name="Dntly.com" default_off='failed ruleset test'>
+<ruleset name="Dntly.com">
 
 	<target host="dntly.com" />
 	<target host="mygenerositywater.dntly.com" />

@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://adaptec.com/ => https://www.adaptec.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://www.adaptec.com/ => https://www.adaptec.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	CDN buckets:
 
 		- wac.131d.edgecastcdn.net/??131D/
@@ -31,7 +26,7 @@ Fetch error: http://www.adaptec.com/ => https://www.adaptec.com/: (60, 'SSL cert
 	** Secured by us
 
 -->
-<ruleset name="Adaptec.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Adaptec.com (partial)">
 
 	<target host="adaptec.com" />
 	<target host="www.adaptec.com" />

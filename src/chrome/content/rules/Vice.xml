@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://assets-broadly.vice.com/ => https://assets-broadly.vice.com/: (6, 'Could not resolve host: assets-broadly.vice.com')
-
 	For problematic rules, see Vice-problematic.xml.
 
 
@@ -79,7 +75,7 @@ Fetch error: http://assets-broadly.vice.com/ => https://assets-broadly.vice.com/
 	* Secured by us
 
 -->
-<ruleset name="Vice.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Vice.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

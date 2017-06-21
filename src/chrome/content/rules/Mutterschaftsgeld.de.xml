@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.mutterschaftsgeld.de/ => https://www.mutterschaftsgeld.de/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://mutterschaftsgeld.de/ => https://www.mutterschaftsgeld.de/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
--->
-<ruleset name="Mutterschaftsgeld.de" default_off='failed ruleset test'>
+<ruleset name="Mutterschaftsgeld.de">
 <target host="www.mutterschaftsgeld.de" />
 <target host="mutterschaftsgeld.de" />
 <rule from="^https?://(?:www\.)?mutterschaftsgeld\.de/" to="https://www.mutterschaftsgeld.de/" />

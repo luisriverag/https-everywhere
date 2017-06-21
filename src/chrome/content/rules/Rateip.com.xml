@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://rateip.com/ => https://rateip.com/: (28, 'Connection timed out after 20003 milliseconds')
-Fetch error: http://www.rateip.com/ => https://www.rateip.com/: (28, 'Connection timed out after 20000 milliseconds')
-
 	Mixed content:
 
 		- css from fonts.googleapis.com *
@@ -11,7 +6,7 @@ Fetch error: http://www.rateip.com/ => https://www.rateip.com/: (28, 'Connection
 	* Secured by us
 
 -->
-<ruleset name="Rateip.com" default_off='failed ruleset test'>
+<ruleset name="Rateip.com">
 
 	<target host="rateip.com" />
 	<target host="www.rateip.com" />

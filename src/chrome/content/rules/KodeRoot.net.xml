@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://xmpp.koderoot.net/ => https://xmpp.koderoot.net/: (6, 'Could not resolve host: xmpp.koderoot.net')
-
 	Server sends includeSubDomains in HSTS header.
 
 
@@ -16,7 +12,7 @@ Fetch error: http://xmpp.koderoot.net/ => https://xmpp.koderoot.net/: (6, 'Could
 	² Unsecurable <= refused
 
 -->
-<ruleset name="KodeRoot.net" default_off='failed ruleset test'>
+<ruleset name="KodeRoot.net">
 
 	<!--	Direct rewrites:
 				-->

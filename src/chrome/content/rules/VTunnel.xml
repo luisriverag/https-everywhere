@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://vtunnel.com/ => https://vtunnel.com/: (7, 'Failed to connect to vtunnel.com port 443: Connection refused')
-Fetch error: http://www.vtunnel.com/ => https://www.vtunnel.com/: (7, 'Failed to connect to www.vtunnel.com port 443: Connection refused')
-
 	Mixed content:
 
 		- Ads/web bugs, on (www.) from:
@@ -15,7 +10,7 @@ Fetch error: http://www.vtunnel.com/ => https://www.vtunnel.com/: (7, 'Failed to
 	* Secured by us
 
 -->
-<ruleset name="VTunnel" default_off='failed ruleset test'>
+<ruleset name="VTunnel">
 
 	<target host="vtunnel.com" />
 	<target host="www.vtunnel.com" />

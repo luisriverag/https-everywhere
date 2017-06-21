@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://codebasehq.com/ => https://codebasehq.com/: (7, 'Failed to connect to codebasehq.com port 443: Connection refused')
-
 	For other aTech Media coverage, see ATech_Media.xml.
 
 
@@ -12,7 +8,7 @@ Fetch error: http://codebasehq.com/ => https://codebasehq.com/: (7, 'Failed to c
 		- www.codebasehq.com
 
 -->
-<ruleset name="Codebase HQ.com" default_off='failed ruleset test'>
+<ruleset name="Codebase HQ.com">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,14 +1,10 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://files.goenergetix.com/ => https://files.goenergetix.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	Nonfunctional subdomains:
 
 		- blog		(shows RHEL test page)
 
 -->
-<ruleset name="Energetix (partial)" default_off='failed ruleset test'>
+<ruleset name="Energetix (partial)">
 
 	<target host="goenergetix.com" />
 	<target host="files.goenergetix.com" />

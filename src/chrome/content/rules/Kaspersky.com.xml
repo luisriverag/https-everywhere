@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://us-business.kaspersky.com/ => https://us-business.kaspersky.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	Other Kaspersky rulesets:
 
 		- Kaspersky.ru.xml
@@ -115,7 +111,7 @@ Fetch error: http://us-business.kaspersky.com/ => https://us-business.kaspersky.
 	⁴ Rule disabled by default
 
 -->
-<ruleset name="Kaspersky.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Kaspersky.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

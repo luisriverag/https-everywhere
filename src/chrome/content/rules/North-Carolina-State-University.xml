@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://ccfn.ncsu.edu/ => https://ccfn.ncsu.edu/: (6, 'Could not resolve host: ccfn.ncsu.edu')
-Fetch error: http://ptmt.fi.ncsu.edu/ => https://ptmt.fi.ncsu.edu/: Too many redirects while fetching 'https://ptmt.fi.ncsu.edu/'
-Fetch error: http://my.lib.ncsu.edu/ => https://my.lib.ncsu.edu/: (6, 'Could not resolve host: my.lib.ncsu.edu')
-
 	North Carolina State University
 
 	For problematic rules, see North_Carolina_State_University-problematic.xml.
@@ -94,7 +88,7 @@ Fetch error: http://my.lib.ncsu.edu/ => https://my.lib.ncsu.edu/: (6, 'Could not
 	² Unsecurable
 
 -->
-<ruleset name="NCSU.edu (partial)" default_off='failed ruleset test'>
+<ruleset name="NCSU.edu (partial)">
 
 	<!--	Direct rewrites:
 				-->

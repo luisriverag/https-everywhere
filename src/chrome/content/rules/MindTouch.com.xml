@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://f1.support.mindtouch.com/ => https://f1.support.mindtouch.com/: (51, "SSL: no alternative certificate subject name matches target host name 'f1.support.mindtouch.com'")
-
 	Other MindTouch rulesets:
 
 		- MindTouch.us.xml
@@ -23,7 +19,7 @@ Fetch error: http://f1.support.mindtouch.com/ => https://f1.support.mindtouch.co
 		- .mindtouch.com
 
 -->
-<ruleset name="MindTouch.com" default_off='failed ruleset test'>
+<ruleset name="MindTouch.com">
 
 	<!--	Direct rewrites:
 				-->

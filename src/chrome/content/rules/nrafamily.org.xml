@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://wmp.nrafamily.org/ => https://wmp.nrafamily.org/: (60, 'SSL certificate problem: certificate has expired')
-
 	For other National Rifle Association coverage, see nra.org.xml.
 
 
@@ -18,7 +14,7 @@ Fetch error: http://wmp.nrafamily.org/ => https://wmp.nrafamily.org/: (60, 'SSL 
 	ˢ Secured by us, see https://www.paulirish.com/2010/the-protocol-relative-url/
 
 -->
-<ruleset name="NRA Family.org" default_off='failed ruleset test'>
+<ruleset name="NRA Family.org">
 
 	<target host="nrafamily.org" />
 	<target host="wmp.nrafamily.org" />

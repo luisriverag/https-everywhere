@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www84.smartadserver.com/ => https://www84.smartadserver.com/: (6, 'Could not resolve host: www84.smartadserver.com')
-
 	For other Axel Springer coverage, see Axel-Springer.xml.
 
 
@@ -18,7 +14,7 @@ Fetch error: http://www84.smartadserver.com/ => https://www84.smartadserver.com/
 		- (www.)
 
 -->
-<ruleset name="Smart AdServer.com (partial)"  default_off='failed ruleset test'>
+<ruleset name="Smart AdServer.com (partial)" >
 
 	<target host="ced.sascdn.com" />
 	<target host="static.sascdn.com" />

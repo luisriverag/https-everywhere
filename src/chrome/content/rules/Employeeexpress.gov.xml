@@ -1,10 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://employeeexpress.gov/ (200) => https://www.employeeexpress.gov/ (403)
-
--->
-<ruleset name="Employeeexpress.gov" default_off='failed ruleset test'>
+<ruleset name="Employeeexpress.gov">
 	<target host="employeeexpress.gov" />
 	<target host="www.employeeexpress.gov" />
 

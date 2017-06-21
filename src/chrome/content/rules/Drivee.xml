@@ -1,11 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://drivee.jp/ => https://www.drivee.jp/: Too many redirects while fetching 'https://www.drivee.jp/'
-Fetch error: http://www.drivee.jp/ => https://www.drivee.jp/: Too many redirects while fetching 'https://www.drivee.jp/'
-Fetch error: http://drivee.ne.jp/ => https://www.drivee.jp/: Too many redirects while fetching 'https://www.drivee.jp/'
-Fetch error: http://www.drivee.ne.jp/ => https://www.drivee.jp/: Too many redirects while fetching 'https://www.drivee.jp/'
-
 	For other Xserver coverage, see Xserver.xml.
 
 
@@ -17,7 +10,7 @@ Fetch error: http://www.drivee.ne.jp/ => https://www.drivee.jp/: Too many redire
 	* Mismatched, CN: secure.drivee.ne.jp
 
 -->
-<ruleset name="drivee (partial)" default_off='failed ruleset test'>
+<ruleset name="drivee (partial)">
 
 	<!--	Direct rewrites:
 				-->

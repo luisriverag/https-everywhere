@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://whatsdeployed.paas.allizom.org/ => https://whatsdeployed.paas.allizom.org/: (7, 'Failed to connect to whatsdeployed.paas.allizom.org port 443: Connection refused')
-
 	For other Mozilla coverage, see Mozilla.xml.
 
 
@@ -28,7 +24,7 @@ Fetch error: http://whatsdeployed.paas.allizom.org/ => https://whatsdeployed.paa
 	* Not secured by us <= mismatched
 
 -->
-<ruleset name="Allizom.org (partial)" default_off='failed ruleset test'>
+<ruleset name="Allizom.org (partial)">
 
 	<!--	Direct rewrites:
 				-->

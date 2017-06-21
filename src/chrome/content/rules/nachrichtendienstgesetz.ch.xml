@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://beta.nachrichtendienstgesetz.ch/ => https://beta.nachrichtendienstgesetz.ch/: (51, "SSL: no alternative certificate subject name matches target host name 'beta.nachrichtendienstgesetz.ch'")
-
 	Insecure cookies are set for these hosts: ᶜ
 
 		- www.nachrichtendienstgesetz.ch
@@ -14,7 +10,7 @@ Fetch error: http://beta.nachrichtendienstgesetz.ch/ => https://beta.nachrichten
 	for ^, www
 
 -->
-<ruleset name="Nachrichtendienstgesetz.ch" default_off='failed ruleset test'>
+<ruleset name="Nachrichtendienstgesetz.ch">
 
 	<target host="nachrichtendienstgesetz.ch" />
 	<target host="*.nachrichtendienstgesetz.ch" />

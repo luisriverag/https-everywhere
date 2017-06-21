@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://adc-srv.net/ => https://adc-srv.net/: (51, "SSL: no alternative certificate subject name matches target host name 'adc-srv.net'")
-Fetch error: http://www.adc-srv.net/ => https://www.adc-srv.net/: (51, "SSL: no alternative certificate subject name matches target host name 'www.adc-srv.net'")
-
 	Insecure cookies are set for these hosts: ᶜ
 
 		- .adc-srv.net
@@ -11,7 +6,7 @@ Fetch error: http://www.adc-srv.net/ => https://www.adc-srv.net/: (51, "SSL: no 
 	ᶜ See https://owasp.org/index.php/SecureFlag
 
 -->
-<ruleset name="ADC-srv.net" default_off='failed ruleset test'>
+<ruleset name="ADC-srv.net">
 
 	<target host="adc-srv.net" />
 	<target host="ad.adc-srv.net" />

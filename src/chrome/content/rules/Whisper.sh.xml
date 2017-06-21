@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://whisper.sh/ => https://whisper.sh/: Too many redirects while fetching 'https://whisper.sh/'
-Fetch error: http://www.whisper.sh/ => https://www.whisper.sh/: Too many redirects while fetching 'https://www.whisper.sh/'
-
 	CDN buckets:
 		- s3.amazonaws.com
 		- cdn-webimages.wimages.net
@@ -14,7 +9,7 @@ Fetch error: http://www.whisper.sh/ => https://www.whisper.sh/: Too many redirec
 		- support		(hostname mismatch, CN: *.desk.com, desk.com)
 		- your-voice.org        (connection refused)
 -->
-<ruleset name="Whisper.sh (partial)" default_off='failed ruleset test'>
+<ruleset name="Whisper.sh (partial)">
 	<target host=    "whisper.sh" />
 	<target host="www.whisper.sh" />
 

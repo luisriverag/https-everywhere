@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://stopcyberspying.com/ => https://stopcyberspying.com/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://www.stopcyberspying.com/ => https://www.stopcyberspying.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	For other Access coverage, see AccessNow.xml.
 
 
@@ -13,7 +8,7 @@ Fetch error: http://www.stopcyberspying.com/ => https://www.stopcyberspying.com/
 		- www.stopcyberspying.com
 
 -->
-<ruleset name="Stop Cyber Spying.com" default_off='failed ruleset test'>
+<ruleset name="Stop Cyber Spying.com">
 
 	<!--	Direct rewrites:
 				-->

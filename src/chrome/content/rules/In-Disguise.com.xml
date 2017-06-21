@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://vpnincome.com/ => https://vpnincome.com/: (28, 'Connection timed out after 20001 milliseconds')
-Fetch error: http://www.vpnincome.com/ => https://www.vpnincome.com/: (28, 'Connection timed out after 20001 milliseconds')
-
 	Fully covered domains:
 
 		- (www.)in-disguise.com
@@ -11,7 +6,7 @@ Fetch error: http://www.vpnincome.com/ => https://www.vpnincome.com/: (28, 'Conn
 		- (www.)wpnincome.com
 
 -->
-<ruleset name="in-Disguise.com" default_off='failed ruleset test'>
+<ruleset name="in-Disguise.com">
 
 	<target host="in-disguise.com" />
 	<target host="my.in-disguise.com" />

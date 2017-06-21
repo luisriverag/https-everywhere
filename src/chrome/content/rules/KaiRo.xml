@@ -1,9 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://awsy.kairo.at/ => https://awsy.kairo.at/: (51, "SSL: no alternative certificate subject name matches target host name 'awsy.kairo.at'")
-Fetch error: http://mail.kairo.at/ => https://mail.kairo.at/: (28, 'Connection timed out after 20001 milliseconds')
- CBSM is a software developed by kaiRo
+<!-- CBSM is a software developed by kaiRo
 
 	Cert mismatch:
 		- ns5.cbsm.at
@@ -16,7 +11,7 @@ Fetch error: http://mail.kairo.at/ => https://mail.kairo.at/: (28, 'Connection t
 		- spoeck.kairo.at
 		- www.uze.kairo.at
 -->
-<ruleset name="KaiRo" default_off='failed ruleset test'>
+<ruleset name="KaiRo">
 
 	<target host="www.cbsm.at" />
 	<target host="14.cbsm.at" />

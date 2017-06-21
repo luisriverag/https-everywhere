@@ -1,13 +1,8 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://jslinterrors.com/ => https://jslinterrors.com/: (28, 'Connection timed out after 20001 milliseconds')
-Fetch error: http://www.jslinterrors.com/ => https://www.jslinterrors.com/: (28, 'Connection timed out after 20001 milliseconds')
-
   Notes:
   - Cloudflare SSL
 -->
-<ruleset name="jslinterrors.com" default_off='failed ruleset test'>
+<ruleset name="jslinterrors.com">
     <target host="jslinterrors.com" />
     <target host="www.jslinterrors.com" />
 

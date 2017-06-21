@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://ws.edu.isoc.org/ => https://ws.edu.isoc.org/: (60, 'SSL certificate problem: certificate has expired')
-
 	For other Internet Society overage, see Internet-Society.xml.
 
 
@@ -19,7 +15,7 @@ Fetch error: http://ws.edu.isoc.org/ => https://ws.edu.isoc.org/: (60, 'SSL cert
 	* Secure by us
 
 -->
-<ruleset name="ISOC.org" default_off='failed ruleset test'>
+<ruleset name="ISOC.org">
 
 	<!--	Direct rewrites:
 				-->

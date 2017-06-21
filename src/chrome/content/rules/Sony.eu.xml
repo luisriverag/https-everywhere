@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://sony.eu/ => https://sony.eu/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://www.sony.eu/ => https://www.sony.eu/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	For other Sony coverage, see Sony.xml.
 
 
@@ -14,7 +9,7 @@ Fetch error: http://www.sony.eu/ => https://www.sony.eu/: (60, 'SSL certificate 
 	ᶜ Server sends no certificate chain, see https://whatsmychaincert.com
 
 -->
-<ruleset name="Sony.eu (partial)" default_off='failed ruleset test'>
+<ruleset name="Sony.eu (partial)">
 
 	<target host="sony.eu" />
 	<target host="global.sony.eu" />

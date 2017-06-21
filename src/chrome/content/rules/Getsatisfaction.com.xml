@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://blog.getsatisfaction.com/ => https://blog.getsatisfaction.com/: (51, "SSL: no alternative certificate subject name matches target host name 'blog.getsatisfaction.com'")
-Fetch error: http://info.getsatisfaction.com/ => https://info.getsatisfaction.com/: (6, 'Could not resolve host: info.getsatisfaction.com')
-
 	Other Getsatisfaction.com rulesets:
 
 		- Gsfn.us.xml
@@ -53,7 +48,7 @@ Fetch error: http://info.getsatisfaction.com/ => https://info.getsatisfaction.co
 	* Secured by us, see https://www.paulirish.com/2010/the-protocol-relative-url/
 
 -->
-<ruleset name="Getsatisfaction.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Getsatisfaction.com (partial)">
 
 	<target host="getsatisfaction.com" />
 	<target host="assets1.getsatisfaction.com" />

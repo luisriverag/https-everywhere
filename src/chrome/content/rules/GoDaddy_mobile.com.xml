@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://godaddymobile.com/ (200) => https://godaddymobile.com/ (403)
-
 	For other GoDaddy coverage, see GoDaddy.xml.
 
 
@@ -16,7 +12,7 @@ Non-2xx HTTP code: http://godaddymobile.com/ (200) => https://godaddymobile.com/
 		- .godaddymobile.com
 
 -->
-<ruleset name="GoDaddy mobile.com (partial)" default_off='failed ruleset test'>
+<ruleset name="GoDaddy mobile.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://static.owncloud.com/ => https://opendesktop.org/: Too many redirects while fetching 'https://opendesktop.org/'
-
 	CDN buckets:
 
 		- mainstatic.hive01.com
@@ -30,7 +26,7 @@ Fetch error: http://static.owncloud.com/ => https://opendesktop.org/: Too many r
 	Not secured by us <= mismatched
 
 -->
-<ruleset name="ownCloud.com" default_off='failed ruleset test'>
+<ruleset name="ownCloud.com">
 
 	<!--	Direct rewrites:
 				-->

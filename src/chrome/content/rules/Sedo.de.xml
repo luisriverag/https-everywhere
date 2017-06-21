@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://backoffice.sedo.de/ => https://backoffice.sedo.de/: (6, 'Could not resolve host: backoffice.sedo.de')
-
 	For problematic rules, see Sedo-problematic.xml.
 
 	For other Sedo Holding coverage, see Sedo_Holding.com.xml.
@@ -25,7 +21,7 @@ Fetch error: http://backoffice.sedo.de/ => https://backoffice.sedo.de/: (6, 'Cou
 		- .sedo.de
 
 -->
-<ruleset name="Sedo.de (partial)" default_off='failed ruleset test'>
+<ruleset name="Sedo.de (partial)">
 
 	<!--	Direct rewrites:
 				-->

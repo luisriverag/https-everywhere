@@ -1,14 +1,10 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://fb.lagardere-pub.com/ => https://fb.lagardere-pub.com/: (6, 'Could not resolve host: fb.lagardere-pub.com')
-
 	Nonfunctional subdomains:
 
 		- (www.)	(shows fb; mismatched, CN: fb.lagardere-pub.com)
 
 -->
-<ruleset name="Lagardère Publicité (partial)" default_off='failed ruleset test'>
+<ruleset name="Lagardère Publicité (partial)">
 
 	<target host="fb.lagardere-pub.com" />
 

@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://crackedconsole.com/ => https://crackedconsole.com/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://www.crackedconsole.com/ => https://www.crackedconsole.com/: (60, 'SSL certificate problem: certificate has expired')
-
--->
-<ruleset name="crackedconsole.com" default_off='failed ruleset test'>
+<ruleset name="crackedconsole.com">
 
 	<target host="crackedconsole.com" />
 	<target host="www.crackedconsole.com" />

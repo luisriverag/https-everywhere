@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://artcoordination.aalto.fi/fi/midcom-serveattachmentguid-1e4ef07b0d5a132ef0711e4839cfb1aca4b21862186/2014_symposium_report-1.jpg => https://artcoordination.aalto.fi/fi/midcom-serveattachmentguid-1e4ef07b0d5a132ef0711e4839cfb1aca4b21862186/2014_symposium_report-1.jpg: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Nonfunctional hosts in *aalto.fi:
 
 		- avoin
@@ -58,7 +54,7 @@ Fetch error: http://artcoordination.aalto.fi/fi/midcom-serveattachmentguid-1e4ef
 		- wwwcms.aalto.fi
 
 -->
-<ruleset name="Aalto.fi (partial)" default_off='failed ruleset test'>
+<ruleset name="Aalto.fi (partial)">
 
 	<!--	Direct rewrites:
 				-->

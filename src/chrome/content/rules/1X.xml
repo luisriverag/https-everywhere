@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://autodiscover.1x.com/ => https://autodiscover.1x.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://owa.1x.com/ => https://owa.1x.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Problematic subdomains:
 
 		- mail		(interrupted)
@@ -12,7 +7,7 @@ Fetch error: http://owa.1x.com/ => https://owa.1x.com/: (60, 'SSL certificate pr
 	² Mismatched
 
 -->
-<ruleset name="1X.com" default_off='failed ruleset test'>
+<ruleset name="1X.com">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://cdn.c9.io/ => https://cdn.c9.io/: Too many redirects while fetching 'https://cdn.c9.io/'
-
 	Cloud9
 
 
@@ -11,7 +7,7 @@ Fetch error: http://cdn.c9.io/ => https://cdn.c9.io/: Too many redirects while f
 		- docs.c9.io
 
 -->
-<ruleset name="C9.io" default_off='failed ruleset test'>
+<ruleset name="C9.io">
     <target host="c9.io" />
 	<target host="docs.c9.io" />
 	<target host="www.c9.io" />

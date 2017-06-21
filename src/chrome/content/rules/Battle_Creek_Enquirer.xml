@@ -10,7 +10,7 @@ Fetch error: http://battlecreekenquirer.com/ => https://www.battlecreekenquirer.
 		- cmsimg	(503, akamai)
 
 -->
-<ruleset name="Battle Creek Enquirer">
+<ruleset name="Battle Creek Enquirer" default_off='failed ruleset test'>
 
 	<target host="battlecreekenquirer.com" />
 	<target host="*.battlecreekenquirer.com" />

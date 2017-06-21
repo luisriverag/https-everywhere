@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://frab.camp.ccc.de/ => https://frab.camp.ccc.de/: (6, 'Could not resolve host: frab.camp.ccc.de')
-
 	For rules subject to CAcert, see CCC.de-cacert.xml.
 
 	Other CCC rulesets:
@@ -40,7 +36,7 @@ Fetch error: http://frab.camp.ccc.de/ => https://frab.camp.ccc.de/: (6, 'Could n
 		- tickets.events.ccc.de
 
 -->
-<ruleset name="ccc.de (partial)" default_off='failed ruleset test'>
+<ruleset name="ccc.de (partial)">
 
 	<target host="ccc.de" />
 	<target host="events.ccc.de" />

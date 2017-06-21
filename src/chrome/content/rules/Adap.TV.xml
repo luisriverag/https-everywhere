@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://adap.tv/ => https://adap.tv/: (7, 'Failed to connect to adap.tv port 443: Connection refused')
-Fetch error: http://www.adap.tv/ => https://adap.tv/: (7, 'Failed to connect to adap.tv port 443: Connection refused')
-
 	For other AOL coverage, see AOL.xml.
 
 
@@ -33,7 +28,7 @@ Fetch error: http://www.adap.tv/ => https://adap.tv/: (7, 'Failed to connect to 
 		- sync
 
 -->
-<ruleset name="Adap.TV (partial)" default_off='failed ruleset test'>
+<ruleset name="Adap.TV (partial)">
 
 	<!--	Direct rewrites:
 				-->

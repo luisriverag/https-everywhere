@@ -1,13 +1,8 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://newzsec.com/ (200) => https://saltysailor.github.io/ (404)
-Non-2xx HTTP code: http://www.newzsec.com/ (200) => https://saltysailor.github.io/ (404)
-
 	(www.)?newzsec.com: Some paths 404
 
 -->
-<ruleset name="newzsec.com (partial)" default_off='failed ruleset test'>
+<ruleset name="newzsec.com (partial)">
 
 	<!--	Complications:
 				-->

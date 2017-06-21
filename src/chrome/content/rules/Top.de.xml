@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://sec-i.top.de/ => https://sec-i.top.de/: (6, 'Could not resolve host: sec-i.top.de')
-
 	For other United Internet coverage, see United-Internet.xml.
 
 
@@ -40,7 +36,7 @@ Fetch error: http://sec-i.top.de/ => https://sec-i.top.de/: (6, 'Could not resol
 	* Secured by us
 
 -->
-<ruleset name="top.de" default_off='failed ruleset test'>
+<ruleset name="top.de">
 
 	<target host="top.de" />
 	<target host="sec-i.top.de" />

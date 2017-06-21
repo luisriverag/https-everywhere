@@ -1,14 +1,10 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://webproxy.stealthy.co/ => https://webproxy.stealthy.co/: (60, 'SSL certificate problem: certificate has expired')
-
 stealthy.co ²
 
 
 ² refused
 -->
-<ruleset name="stealthy.co" default_off='failed ruleset test'>
+<ruleset name="stealthy.co">
 	<target host="stealthy.co" />
 	<target host="www.stealthy.co" />
 	<target host="webproxy.stealthy.co" />

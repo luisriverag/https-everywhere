@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://xcom2.curse.com/ (200) => https://xcom2.curse.com/ (404)
-
 	Other Curse rulesets:
 
 		- bukkit.org.xml
@@ -64,7 +60,7 @@ Non-2xx HTTP code: http://xcom2.curse.com/ (200) => https://xcom2.curse.com/ (40
 		- www.mmo-champion.com
 
 -->
-<ruleset name="Curse" default_off='failed ruleset test'>
+<ruleset name="Curse">
 
 	<target host="curse.com" />
 	<target host="www.curse.com" />

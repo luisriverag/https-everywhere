@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://nikcub.com/ => https://nikcub.com/: (28, 'Operation timed out after 30002 milliseconds with 0 bytes received')
-Fetch error: http://www.nikcub.com/ => https://www.nikcub.com/: (28, 'Operation timed out after 30001 milliseconds with 0 bytes received')
-
--->
-<ruleset name="Nik Cub.com" default_off='failed ruleset test'>
+<ruleset name="Nik Cub.com">
 
 	<target host="nikcub.com" />
 	<target host="www.nikcub.com" />

@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://ibanking.cimbthai.com/ => https://www.ibanking.cimbthai.com/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://www.ibanking.cimbthai.com/ => https://www.ibanking.cimbthai.com/: (60, 'SSL certificate problem: certificate has expired')
-
 
 	Hosts may take a long time to respond.
 
@@ -17,7 +12,7 @@ Fetch error: http://www.ibanking.cimbthai.com/ => https://www.ibanking.cimbthai.
 		- (www.)cimbthai.com		(Mismatch hostname, CN: www.beatbanking.com, beatbanking.com)
 
 -->
-<ruleset name="CIMB Thailand" default_off='failed ruleset test'>
+<ruleset name="CIMB Thailand">
 
 	<target host=    "cimbclicks.in.th" />
 	<target host="www.cimbclicks.in.th" />

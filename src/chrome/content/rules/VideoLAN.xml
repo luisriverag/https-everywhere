@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www1.videolan.org/ => https://www1.videolan.org/: (52, 'Empty reply from server')
-
 	Nonfunctional subdomains:
 
 		- ganesh **
@@ -34,7 +30,7 @@ Fetch error: http://www1.videolan.org/ => https://www1.videolan.org/: (52, 'Empt
 		- wiki.videolan.org
 
 -->
-<ruleset name="VideoLAN.org (partial)" default_off='failed ruleset test'>
+<ruleset name="VideoLAN.org (partial)">
 
 	<!--	Direct rewrites:
 				-->

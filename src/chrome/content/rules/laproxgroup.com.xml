@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://laproxgroup.com/ => https://laproxgroup.com/: (7, 'Failed to connect to laproxgroup.com port 443: Connection refused')
-Fetch error: http://www.laproxgroup.com/ => https://www.laproxgroup.com/: (7, 'Failed to connect to www.laproxgroup.com port 443: Connection refused')
-
 	Other Laprox Group rulesets:
 
 		- Laprox_Sites.xml
@@ -18,7 +13,7 @@ Fetch error: http://www.laproxgroup.com/ => https://www.laproxgroup.com/: (7, 'F
 	ᶜ See https://owasp.org/index.php/SecureFlag
 
 -->
-<ruleset name="Laprox Group.com" default_off='failed ruleset test'>
+<ruleset name="Laprox Group.com">
 
 	<target host="laproxgroup.com" />
 	<target host="www.laproxgroup.com" />

@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://meetings.io/ => https://meetings.io/: (6, 'Could not resolve host: meetings.io')
-Fetch error: http://oi.meetings.io/ => https://oi.meetings.io/: (6, 'Could not resolve host: oi.meetings.io')
-Fetch error: http://www.meetings.io/ => https://www.meetings.io/: (28, 'Connection timed out after 20000 milliseconds')
-
 	Fully covered subdomains:
 
 		- (www.)
@@ -16,7 +10,7 @@ Fetch error: http://www.meetings.io/ => https://www.meetings.io/: (28, 'Connecti
 		- blog	(dropped)
 
 -->
-<ruleset name="Meetings.io (partial)" default_off='failed ruleset test'>
+<ruleset name="Meetings.io (partial)">
 
 	<target host="meetings.io" />
 	<target host="oi.meetings.io" />

@@ -1,13 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: https://store.adultshopping.com/ => https://checkout.adultshopping.com/: (51, "SSL: no alternative certificate subject name matches target host name 'checkout.adultshopping.com'")
-Fetch error: http://admin.adultshopping.com/ => https://admin.adultshopping.com/: (51, "SSL: no alternative certificate subject name matches target host name 'admin.adultshopping.com'")
-Fetch error: http://checkout.adultshopping.com/ => https://checkout.adultshopping.com/: (51, "SSL: no alternative certificate subject name matches target host name 'checkout.adultshopping.com'")
-Fetch error: http://affiliates.adultshopping.com/ => https://affiliates.adultshopping.com/: (51, "SSL: no alternative certificate subject name matches target host name 'affiliates.adultshopping.com'")
-Fetch error: http://secure.adultshopping.com/ => https://secure.adultshopping.com/: (51, "SSL: no alternative certificate subject name matches target host name 'secure.adultshopping.com'")
-Fetch error: http://store.adultshopping.com/ => https://checkout.adultshopping.com/: (51, "SSL: no alternative certificate subject name matches target host name 'checkout.adultshopping.com'")
-
 	For other CNV.com coverage, see cnv.com.xml.
 
 
@@ -42,7 +33,7 @@ Fetch error: http://store.adultshopping.com/ => https://checkout.adultshopping.c
 	ˢ Secured by us, see https://www.paulirish.com/2010/the-protocol-relative-url/
 
 -->
-<ruleset name="AdultShopping.com" default_off='failed ruleset test'>
+<ruleset name="AdultShopping.com">
 
 	<!--	Direct rewrites:
 				-->

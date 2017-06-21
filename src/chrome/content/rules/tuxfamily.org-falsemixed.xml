@@ -1,16 +1,11 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://gimpphoto.tuxfamily.org/ => https://gimpphoto.tuxfamily.org/: (60, 'SSL certificate problem: self signed certificate')
-Fetch error: http://www.gimpphoto.tuxfamily.org/ => https://gimpphoto.tuxfamily.org/: (60, 'SSL certificate problem: self signed certificate')
-
 	For rules not causing false/broken MCB, see TuxFamily.org.xml.
 
 
 	NB: see https://www.paulirish.com/2010/the-protocol-relative-url/
 
 -->
-<ruleset name="TuxFamily.org (false MCB)" platform="mixedcontent" default_off='failed ruleset test'>
+<ruleset name="TuxFamily.org (false MCB)" platform="mixedcontent">
 
 	<!--	Direct rewrites:
 				-->

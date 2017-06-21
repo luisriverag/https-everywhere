@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://banx.io/ => https://banx.io/: (51, "SSL: no alternative certificate subject name matches target host name 'banx.io'")
-Fetch error: http://cdn.banx.io/ => https://cdn.banx.io/: (51, "SSL: no alternative certificate subject name matches target host name 'cdn.banx.io'")
-Fetch error: http://www.banx.io/ => https://www.banx.io/: (51, "SSL: no alternative certificate subject name matches target host name 'www.banx.io'")
-
 	Insecure cookies are set for these domains and hosts:
 
 		- banx.io
@@ -12,7 +6,7 @@ Fetch error: http://www.banx.io/ => https://www.banx.io/: (51, "SSL: no alternat
 		- www.banx.io
 
 -->
-<ruleset name="Banx.io" default_off='failed ruleset test'>
+<ruleset name="Banx.io">
 
 	<!--	Direct rewrites:
 				-->

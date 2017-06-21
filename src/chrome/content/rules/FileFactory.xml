@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://help.filefactory.com/ => https://help.filefactory.com/: Too many redirects while fetching 'https://help.filefactory.com/'
-Fetch error: http://support.filefactory.com/ => https://support.filefactory.com/: Too many redirects while fetching 'https://support.filefactory.com/'
-
 	Problematic hosts in *filefactory.com:
 
 		- cdn *
@@ -11,7 +6,7 @@ Fetch error: http://support.filefactory.com/ => https://support.filefactory.com/
 	* Mismatched
 
 -->
-<ruleset name="FileFactory.com (partial)" default_off='failed ruleset test'>
+<ruleset name="FileFactory.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

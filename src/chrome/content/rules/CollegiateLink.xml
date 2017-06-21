@@ -1,15 +1,11 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://ufl.collegiatelink.net/ => https://ufl.collegiatelink.net/: (7, 'Failed to connect to ufl.collegiatelink.net port 443: Connection refused')
-
 	For other Campus Labs coverage, see Campuslabs.com.xml.
 
 
 	^collegiatelink.net does not exist.
 
 -->
-<ruleset name="CollegiateLink.net" default_off='failed ruleset test'>
+<ruleset name="CollegiateLink.net">
 
 	<target host="*.collegiatelink.net" />
 

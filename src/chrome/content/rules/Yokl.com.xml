@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://yokl.com/ => https://yokl.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://api.yokl.com/ => https://api.yokl.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://www.yokl.com/ => https://yokl.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	www.yokl.com: Mismatched
 
 
@@ -13,7 +7,7 @@ Fetch error: http://www.yokl.com/ => https://yokl.com/: (60, 'SSL certificate pr
 		- yokl.com
 
 -->
-<ruleset name="Yokl.com" default_off='failed ruleset test'>
+<ruleset name="Yokl.com">
 
 	<!--	Direct rewrites:
 				-->

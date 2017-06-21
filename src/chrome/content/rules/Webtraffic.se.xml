@@ -1,14 +1,10 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://dyn.webtraffic.se/ => https://dyn.webtraffic.se/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Nonfunctional subdomains:
 
 		 - (www.)	(403; mismatched, CN; dyn.webtraffic.se)
 
 -->
-<ruleset name="Webtraffic.se (partial)" default_off='failed ruleset test'>
+<ruleset name="Webtraffic.se (partial)">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://statistik-gallup.net/ => https://statistik-gallup.net/: (7, 'Failed to connect to statistik-gallup.net port 443: Connection refused')
-
 	For other TNS coverage, see TNS-Global.xml
 
 
@@ -15,7 +11,7 @@ Fetch error: http://statistik-gallup.net/ => https://statistik-gallup.net/: (7, 
 	* Refused
 
 -->
-<ruleset name="TNS Gallup (partial)" default_off='failed ruleset test'>
+<ruleset name="TNS Gallup (partial)">
 
 	<target host="statistik-gallup.net" />
 

@@ -1,8 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://labs.igalia.com/ => https://labs.igalia.com/: (6, 'Could not resolve host: labs.igalia.com')
-	!functional:
+<!--	!functional:
 		- planet.igalia.com	(401; expired 2011-08-25, self-signed)
 
 	See Igalia-self-signed.xml for problematic rules.
@@ -18,7 +14,7 @@ Fetch error: http://labs.igalia.com/ => https://labs.igalia.com/: (6, 'Could not
 	² Works, self-signed
 
 -->
-<ruleset name="Igalia (partial)" default_off='failed ruleset test'>
+<ruleset name="Igalia (partial)">
 
 	<target host="igalia.com" />
 	<target host="labs.igalia.com"/>

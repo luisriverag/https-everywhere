@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://guitarcenter.com/ (200) => http://guitarcenter.com/ (403)
-
 	CDN buckets:
 
 		- s3.amazonaws.com/stores4stores-gc-images-admin-dev/
@@ -72,7 +68,7 @@ Non-2xx HTTP code: http://guitarcenter.com/ (200) => http://guitarcenter.com/ (4
 	² Unsecurable <= interrupted
 
 -->
-<ruleset name="Guitar Center.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Guitar Center.com (partial)">
 
 	<target host="guitarcenter.com" />
 	<target host="*.guitarcenter.com" />

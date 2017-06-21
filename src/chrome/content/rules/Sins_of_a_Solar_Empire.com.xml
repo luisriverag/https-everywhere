@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://sinsofasolarempire.com/ => https://sinsofasolarempire.com/: (35, 'Unknown SSL protocol error in connection to sinsofasolarempire.com:443 ')
-
 	For other Stardock coverage, see Stardock.xml.
 
 
@@ -14,7 +10,7 @@ Fetch error: http://sinsofasolarempire.com/ => https://sinsofasolarempire.com/: 
 	Mixed images from draginol.stardock.net
 
 -->
-<ruleset name="Sins of a Solar Empire.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Sins of a Solar Empire.com (partial)">
 
 	<target host="sinsofasolarempire.com" />
 	<target host="www.sinsofasolarempire.com" />

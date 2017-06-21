@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://cacti.atech.io/ => https://cacti.atech.io/: (7, 'Failed to connect to cacti.atech.io port 443: Connection refused')
-
 	For other aTech Media coverage, see ATech_Media.xml.
 
 
@@ -14,7 +10,7 @@ Fetch error: http://cacti.atech.io/ => https://cacti.atech.io/: (7, 'Failed to c
 		- cacti.atech.io
 
 -->
-<ruleset name="aTech.io" default_off='failed ruleset test'>
+<ruleset name="aTech.io">
 
 	<!--	Direct rewrites:
 				-->

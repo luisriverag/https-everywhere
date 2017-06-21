@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://cookies.cmpnet.com/ (200) => https://i.cmpnet.com/ (403)
-
 	For other UBM coverage, see UBM-mismatches.xml.
 
 
@@ -13,7 +9,7 @@ Non-2xx HTTP code: http://cookies.cmpnet.com/ (200) => https://i.cmpnet.com/ (40
 	* Mismatched
 
 -->
-<ruleset name="CMPnet.com" default_off='failed ruleset test'>
+<ruleset name="CMPnet.com">
 
 	<!--	Direct rewrites:
 				-->

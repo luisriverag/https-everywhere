@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://mc.manuscriptcentral.com/ => https://mc.manuscriptcentral.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	For other Thomson Reuters coverage, see Thomson-Reuters.xml.
 
 
@@ -14,7 +10,7 @@ Fetch error: http://mc.manuscriptcentral.com/ => https://mc.manuscriptcentral.co
 
 
 -->
-<ruleset name="ScholarOne (partial)" default_off='failed ruleset test'>
+<ruleset name="ScholarOne (partial)">
 
 	<target host="mc.manuscriptcentral.com" />
 

@@ -1,11 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://systemcenteradviser.com/ => https://systemcenteradviser.com/: (28, 'Connection timed out after 20000 milliseconds')
-Fetch error: http://systemcenteradviser.net/ => https://systemcenteradviser.net/: (28, 'Connection timed out after 20000 milliseconds')
-Fetch error: http://systemcenteradvisor.com/ => https://systemcenteradvisor.com/: (28, 'Connection timed out after 20004 milliseconds')
-Fetch error: http://systemcenteradvisor.net/ => https://systemcenteradvisor.net/: (28, 'Connection timed out after 20000 milliseconds')
-
 	For other Microsoft coverage, see Microsoft.xml.
 
 
@@ -18,7 +11,7 @@ Fetch error: http://systemcenteradvisor.net/ => https://systemcenteradvisor.net/
 		- (www.)systemcenteradvisor.net
 
 -->
-<ruleset name="System Center Advisor.com" default_off='failed ruleset test'>
+<ruleset name="System Center Advisor.com">
 
 	<target host="systemcenteradviser.com" />
 	<target host="*.systemcenteradviser.com" />

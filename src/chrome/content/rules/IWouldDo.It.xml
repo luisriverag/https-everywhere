@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.iwoulddo.it/ => https://www.iwoulddo.it/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://iwoulddo.it/ => https://www.iwoulddo.it/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Problematic hosts in *iwoulddo.it:
 
 		- ^ *
@@ -12,7 +7,7 @@ Fetch error: http://iwoulddo.it/ => https://www.iwoulddo.it/: (60, 'SSL certific
 	* Mismatched
 
 -->
-<ruleset name="IWouldDo.It (partial)" default_off='failed ruleset test'>
+<ruleset name="IWouldDo.It (partial)">
 
 	<!--	Direct rewrites:
 				-->

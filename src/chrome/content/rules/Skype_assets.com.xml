@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://beta.skypeassets.com/ => https://beta.skypeassets.com/: (6, 'Could not resolve host: beta.skypeassets.com')
-Non-2xx HTTP code: http://www.skypeassets.com/ (200) => https://secure.skypeassets.com/ (504)
-
 	For other Microsoft coverage, see Microsoft.xml.
 
 
@@ -18,7 +13,7 @@ Non-2xx HTTP code: http://www.skypeassets.com/ (200) => https://secure.skypeasse
 		- www		(→ secure.skypeassets.com)
 
 -->
-<ruleset name="Skype assets.com" default_off='failed ruleset test'>
+<ruleset name="Skype assets.com">
 
 	<!--	Direct rewrites:
 				-->

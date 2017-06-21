@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://hotels.com/ (200) => http://hotels.com/ (403)
-
 	Nonfunctional domains:
 
 		- jobs.hotels.com	(times out)
@@ -56,7 +52,7 @@ Non-2xx HTTP code: http://hotels.com/ (200) => http://hotels.com/ (403)
 			- ssl
 
 -->
-<ruleset name="Hotels.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Hotels.com (partial)">
 
 	<target host="*.cdn-hotels.com" />
 	<target host="hotels.com" />

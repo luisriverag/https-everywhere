@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://livehelpvm01.ikoula.com/ => https://livehelpvm01.ikoula.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Other Ikoula rulesets:
 
 		- Ex10.biz.xml
@@ -14,7 +10,7 @@ Fetch error: http://livehelpvm01.ikoula.com/ => https://livehelpvm01.ikoula.com/
 		- .ikoula.com
 
 -->
-<ruleset name="Ikoula.com" default_off='failed ruleset test'>
+<ruleset name="Ikoula.com">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://imagestore2.boomerang.com/ => https://imagestore2.boomerang.com/: (6, 'Could not resolve host: imagestore2.boomerang.com')
-
 	Nonfunctional subdomains:
 
 		- blogs
@@ -11,7 +7,7 @@ Fetch error: http://imagestore2.boomerang.com/ => https://imagestore2.boomerang.
 		- ss (refused)
 
 -->
-<ruleset name="Boomerang (partial)" default_off='failed ruleset test'>
+<ruleset name="Boomerang (partial)">
 	<target host="boomerang.com" />
 	<target host="www.boomerang.com" />
 	<target host="imagestore2.boomerang.com" />

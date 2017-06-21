@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://neoseeker.com/ => https://neoseeker.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	CDN buckets:
 
 		- 306885977.r.cdn77.net
@@ -29,7 +25,7 @@ Fetch error: http://neoseeker.com/ => https://neoseeker.com/: (60, 'SSL certific
 
 		- cdn.staticneo.com
 -->
-<ruleset name="Neoseeker" default_off='failed ruleset test'>
+<ruleset name="Neoseeker">
 
 	<target host="neoseeker.com" />
 	<target host="*.neoseeker.com" />

@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://images.victorinox.com/ => https://images.victorinox.com/: (6, 'Could not resolve host: images.victorinox.com')
-Fetch error: http://static.victorinox.com/ => https://static.victorinox.com/: (6, 'Could not resolve host: static.victorinox.com')
-
 	Nonfunctional hosts in *victorinox.com:
 
 		- rsrc ᶠ
@@ -18,7 +13,7 @@ Fetch error: http://static.victorinox.com/ => https://static.victorinox.com/: (6
 	ˢ Secured by us, see https://www.paulirish.com/2010/the-protocol-relative-url/
 
 -->
-<ruleset name="Victorinox.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Victorinox.com (partial)">
 
     <target host="victorinox.com" />
 	<target host="assets.victorinox.com" />

@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.seecrypt.com/ => https://www.seecrypt.com/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://seecrypt.com/ => https://seecrypt.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	STS header includes includeSubDomains
 
 
@@ -14,7 +9,7 @@ Fetch error: http://seecrypt.com/ => https://seecrypt.com/: (60, 'SSL certificat
 	* Unsecurable <= dropped
 
 -->
-<ruleset name="Seecrypt.com" default_off='failed ruleset test'>
+<ruleset name="Seecrypt.com">
 
 	<!--	Direct rewrites:
 				-->

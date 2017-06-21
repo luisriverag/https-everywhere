@@ -1,16 +1,11 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://microsoftstudios.com/ => https://microsoftstudios.com/: (7, 'Failed to connect to microsoftstudios.com port 443: Connection timed out')
-Fetch error: http://www.microsoftstudios.com/ => https://microsoftstudios.com/: (7, 'Failed to connect to microsoftstudios.com port 443: Connection timed out')
-
 	For other Microsoft coverage, see Microsoft.xml.
 
 
 	www.microsoftstudios.com: Mismatched
 
 -->
-<ruleset name="Microsoft Studios.com" default_off='failed ruleset test'>
+<ruleset name="Microsoft Studios.com">
 
 	<!--	Direct rewrites:
 				-->

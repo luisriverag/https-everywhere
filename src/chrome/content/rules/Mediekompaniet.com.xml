@@ -1,14 +1,10 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://nysk.mediekompaniet.com/ => https://nysk.mediekompaniet.com/: (6, 'Could not resolve host: nysk.mediekompaniet.com')
-
 	Nonfunctional subdomains:
 
 		- (www.)	(refused)
 
 -->
-<ruleset name="Mediekompaniet.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Mediekompaniet.com (partial)">
 
 	<target host="nysk.mediekompaniet.com" />
 

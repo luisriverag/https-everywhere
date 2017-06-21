@@ -1,12 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://www.verisign.com/ (200) => https://www.verisign.com/ (400)
-Fetch error: http://tracking.verisign.com.au/ => https://tracking.verisign.com.au/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://tracking.verisign.com.hk/ => https://tracking.verisign.com.hk/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://tracking.verisign.com.tw/ => https://tracking.verisign.com.tw/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://tracking.verisign.co.nz/ => https://tracking.verisign.co.nz/: (60, 'SSL certificate problem: certificate has expired')
-
 	Problematic domains:
 		Mismatch
 		- forms.verisign.com
@@ -67,7 +59,7 @@ Fetch error: http://tracking.verisign.co.nz/ => https://tracking.verisign.co.nz/
 		- Verisign_Labs.com.xml
 
 -->
-<ruleset name="VeriSign (partial)" default_off='failed ruleset test'>
+<ruleset name="VeriSign (partial)">
 	<target host="verisign.ch"/>
 	<target host="www.verisign.ch"/>
 

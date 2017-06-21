@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://holyrood.com/ => https://holyrood.com/: (28, 'Connection timed out after 20001 milliseconds')
-
 	Mixed content:
 
 		- Image, on:
@@ -13,7 +9,7 @@ Fetch error: http://holyrood.com/ => https://holyrood.com/: (28, 'Connection tim
 	ˢ Secured by us, see https://www.paulirish.com/2010/the-protocol-relative-url/
 
 -->
-<ruleset name="Holyrood.com" default_off='failed ruleset test'>
+<ruleset name="Holyrood.com">
 
 	<target host="holyrood.com" />
 	<target host="assetmanagement.holyrood.com" />

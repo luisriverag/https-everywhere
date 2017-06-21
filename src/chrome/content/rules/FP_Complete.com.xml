@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://haskell.fpcomplete.com/ => https://haskell.fpcomplete.com/: (6, 'Could not resolve host: haskell.fpcomplete.com')
-
 	Fully covered hosts in *fpcomplete.com:
 
 		- (www.)?
@@ -15,7 +11,7 @@ Fetch error: http://haskell.fpcomplete.com/ => https://haskell.fpcomplete.com/: 
 		- www.fpcomplete.com
 
 -->
-<ruleset name="FP Complete.com" default_off='failed ruleset test'>
+<ruleset name="FP Complete.com">
 
 	<target host="fpcomplete.com" />
 	<target host="haskell.fpcomplete.com" />

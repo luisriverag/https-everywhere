@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://shop.adapteva.com/ (200) => https://adapteva.myshopify.com/ (404)
-
 	CDN buckets:
 
 		- adapteva.myshopify.com
@@ -20,7 +16,7 @@ Non-2xx HTTP code: http://shop.adapteva.com/ (200) => https://adapteva.myshopify
 		- (www.)	(http reply)
 
 -->
-<ruleset name="Adapteva.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Adapteva.com (partial)">
 
 	<target host="shop.adapteva.com" />
 

@@ -1,13 +1,8 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://yeahtv.com/ => https://www.yeahtv.com/: (28, 'Connection timed out after 20001 milliseconds')
-Fetch error: http://www.yeahtv.com/ => https://www.yeahtv.com/: (28, 'Connection timed out after 20001 milliseconds')
-
 	!www times out.
 
 -->
-<ruleset name="YEAH!" default_off='failed ruleset test'>
+<ruleset name="YEAH!">
 
 	<target host="yeahtv.com" />
 	<target host="www.yeahtv.com" />

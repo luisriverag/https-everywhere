@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.lightwidget.com/ => https://www.lightwidget.com/: (51, "SSL: no alternative certificate subject name matches target host name 'www.lightwidget.com'")
-
 	Insecure cookies are set for these hosts: ᶜ
 
 		- lightwidget.com
@@ -11,7 +7,7 @@ Fetch error: http://www.lightwidget.com/ => https://www.lightwidget.com/: (51, "
 	ᶜ See https://owasp.org/index.php/SecureFlag
 
 -->
-<ruleset name="LightWidget.com" default_off='failed ruleset test'>
+<ruleset name="LightWidget.com">
 
 	<target host="lightwidget.com" />
 	<target host="www.lightwidget.com" />

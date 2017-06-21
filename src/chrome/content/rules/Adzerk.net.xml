@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://secure.adzerk.net/ => https://secure.adzerk.net/: (51, "SSL: no alternative certificate subject name matches target host name 'secure.adzerk.net'")
-
 	For other Adzerk coverage, see Adzerk.xml.
 
 
@@ -31,7 +27,7 @@ Fetch error: http://secure.adzerk.net/ => https://secure.adzerk.net/: (51, "SSL:
 		- .adzerk.net
 
 -->
-<ruleset name="Adzerk.net (partial)" default_off='failed ruleset test'>
+<ruleset name="Adzerk.net (partial)">
 
 	<target host="engine.adzerk.net" />
 	<target host="secure.adzerk.net" />

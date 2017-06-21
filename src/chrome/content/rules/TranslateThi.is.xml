@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://x.translateth.is/ (200) => https://s3.amazonaws.com/x.translateth.is/ (403)
-
 	CDN buckets:
 
 		- x.translateth.is
@@ -13,7 +9,7 @@ Non-2xx HTTP code: http://x.translateth.is/ (200) => https://s3.amazonaws.com/x.
 		- (www.)	(prints "dashd", invalid cert)
 
 -->
-<ruleset name="TranslateThi.is (partial)" default_off='failed ruleset test'>
+<ruleset name="TranslateThi.is (partial)">
 
 	<target host="x.translateth.is" />
 

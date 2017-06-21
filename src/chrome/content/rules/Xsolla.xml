@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://analytics.xsolla.com/ => https://analytics.xsolla.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	Other Xsolla rulesets:
 
 		- 2pay.ru.xml
@@ -42,7 +38,7 @@ Fetch error: http://analytics.xsolla.com/ => https://analytics.xsolla.com/: (60,
 	* Secured by us
 
 -->
-<ruleset name="Xsolla.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Xsolla.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

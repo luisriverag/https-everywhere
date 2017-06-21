@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://account.sonyentertainmentnetwork.com/ (200) => https://account.sonyentertainmentnetwork.com/ (403)
-
 	For other Sony coverage, see Sony.xml.
 
 
@@ -28,7 +24,7 @@ Non-2xx HTTP code: http://account.sonyentertainmentnetwork.com/ (200) => https:/
 		- www.auth.api.sonyentertainmentnetwork.com
 
 -->
-<ruleset name="Sony Entertainment Network.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Sony Entertainment Network.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

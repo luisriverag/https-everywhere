@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://help.livingsocial.co.uk/ => https://help.livingsocial.co.uk/: (28, 'Connection timed out after 20001 milliseconds')
-
 	For other LivingSocial coverage, see LivingSocial.xml.
 
 
@@ -12,7 +8,7 @@ Fetch error: http://help.livingsocial.co.uk/ => https://help.livingsocial.co.uk/
 		- help
 
 -->
-<ruleset name="LivingSocial.co.uk" default_off='failed ruleset test'>
+<ruleset name="LivingSocial.co.uk">
 
 	<!--	Direct rewrites:
 				-->

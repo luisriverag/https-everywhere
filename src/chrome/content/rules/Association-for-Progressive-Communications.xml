@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://lists.apc.org/ => https://lists.apc.org/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Association for Progressive Communications
 
 
@@ -37,7 +33,7 @@ Fetch error: http://lists.apc.org/ => https://lists.apc.org/: (60, 'SSL certific
 	* Secured by us
 
 -->
-<ruleset name="APC.org (partial)" default_off='failed ruleset test'>
+<ruleset name="APC.org (partial)">
 
 	<!--	Direct rewrites:
 				-->

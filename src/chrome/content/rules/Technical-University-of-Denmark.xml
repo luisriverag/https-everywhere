@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://backend.alumnenet.dtu.dk/ => https://backend.alumnenet.dtu.dk/: (7, 'Failed to connect to backend.alumnenet.dtu.dk port 443: No route to host')
-Fetch error: http://portalen.dtu.dk/ => https://portalen.dtu.dk/: (7, 'Failed to connect to portalen.dtu.dk port 443: Connection refused')
-Fetch error: http://www.portalen.dtu.dk/ => https://portalen.dtu.dk/: (7, 'Failed to connect to portalen.dtu.dk port 443: Connection refused')
-
 	Technical University of Denmark
 
 
@@ -41,7 +35,7 @@ Fetch error: http://www.portalen.dtu.dk/ => https://portalen.dtu.dk/: (7, 'Faile
 		- www.portalen.dtu.dk
 
 -->
-<ruleset name="DTU.dk (partial)" default_off='failed ruleset test'>
+<ruleset name="DTU.dk (partial)">
 
 	<!--	Direct rewrites:
 				-->

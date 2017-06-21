@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://direkt.postbank.de/ => https://direkt.postbank.de/: (6, 'Could not resolve host: direkt.postbank.de')
-
 	Other Postbank rulesets:
 
 		- BHW.de.xml
@@ -14,7 +10,7 @@ Fetch error: http://direkt.postbank.de/ => https://direkt.postbank.de/: (6, 'Cou
 		- direkt
 
 -->
-<ruleset name="Postbank.de" default_off='failed ruleset test'>
+<ruleset name="Postbank.de">
 
 	<!--	Direct rewrites:
 				-->

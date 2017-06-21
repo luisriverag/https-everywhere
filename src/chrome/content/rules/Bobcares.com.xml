@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://installations.bobcares.com/ => https://installations.bobcares.com/: (28, 'Connection timed out after 20006 milliseconds')
-Fetch error: http://portal.bobcares.com/ => https://portal.bobcares.com/: (6, 'Could not resolve host: portal.bobcares.com')
-
 	Problematic hosts in *bobcares.com:
 
 		- phone ᵉ
@@ -18,7 +13,7 @@ Fetch error: http://portal.bobcares.com/ => https://portal.bobcares.com/: (6, 'C
 	ˢ Secured by us
 
 -->
-<ruleset name="Bobcares.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Bobcares.com (partial)">
 
 	<target host="bobcares.com" />
 	<target host="installations.bobcares.com" />

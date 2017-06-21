@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://hertz.co.uk/ (200) => https://hertz.co.uk/ (403)
-Non-2xx HTTP code: http://www.hertzvans.co.uk/ (200) => https://www.hertzvans.co.uk/ (403)
-
 	Other Hertz rulesets:
 		- Hertz-Australia.xml
 		- Hertz-Austria.xml
@@ -53,7 +48,7 @@ Non-2xx HTTP code: http://www.hertzvans.co.uk/ (200) => https://www.hertzvans.co
 	¹ hostname mismatch
 -->
 
-<ruleset name="Hertz UK" default_off='failed ruleset test'>
+<ruleset name="Hertz UK">
 	<target host="hertz247.co.uk" />
 	<target host="hertz.co.uk" />
 	<target host="www.hertz.co.uk" />

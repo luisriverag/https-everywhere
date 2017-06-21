@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://www.nvidia.co.uk/ (200) => https://www.nvidia.co.uk/ (504)
-Non-2xx HTTP code: http://nvidia.co.uk/ (200) => https://www.nvidia.co.uk/ (504)
-
 	For other nVidia coverage, see NVidia.xml.
 
 
@@ -16,7 +11,7 @@ Non-2xx HTTP code: http://nvidia.co.uk/ (200) => https://www.nvidia.co.uk/ (504)
 	² Akamai
 
 -->
-<ruleset name="nVidia.co.uk (partial)" default_off='failed ruleset test'>
+<ruleset name="nVidia.co.uk (partial)">
 
 	<!--	Direct rewrites:
 				-->

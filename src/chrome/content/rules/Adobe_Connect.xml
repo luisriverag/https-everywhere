@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://adobeconnect.com/ => https://adobeconnect.com/: (28, 'Connection timed out after 20005 milliseconds')
-
 	For other Adobe coverage, see Adobe.xml.
 
 
@@ -20,7 +16,7 @@ Fetch error: http://adobeconnect.com/ => https://adobeconnect.com/: (28, 'Connec
 		- na\d+cps
 
 -->
-<ruleset name="Adobe Connect.com" default_off='failed ruleset test'>
+<ruleset name="Adobe Connect.com">
 
 	<target host="adobeconnect.com" />
 	<target host="*.adobeconnect.com" />

@@ -1,11 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://archive.wix.com/ => https://archive.wix.com/: (35, 'Unknown SSL protocol error in connection to archive.wix.com:443 ')
-Fetch error: http://dns.lc.wix.com/ => https://dns.lc.wix.com/: (28, 'Connection timed out after 20001 milliseconds')
-Fetch error: http://www.dns.lc.wix.com/ => https://www.dns.lc.wix.com/: (6, 'Could not resolve host: www.dns.lc.wix.com')
-Fetch error: http://publicorigin.wix.com/ => https://publicorigin.wix.com/: (6, 'Could not resolve host: publicorigin.wix.com')
-
 	Other Wix rulesets:
 
 		- Parastorage.com.xml
@@ -48,7 +41,7 @@ Fetch error: http://publicorigin.wix.com/ => https://publicorigin.wix.com/: (6, 
 		- .wix.com
 
 -->
-<ruleset name="Wix.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Wix.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

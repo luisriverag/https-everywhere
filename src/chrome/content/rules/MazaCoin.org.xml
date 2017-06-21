@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://mazacoin.org/ => https://mazacoin.org/: (7, 'Failed to connect to mazacoin.org port 443: Connection refused')
-Fetch error: http://www.mazacoin.org/ => https://www.mazacoin.org/: (7, 'Failed to connect to www.mazacoin.org port 443: Connection refused')
-
 	Fully covered hosts in *mazacoin.org:
 
 		- (www.)?
@@ -15,7 +10,7 @@ Fetch error: http://www.mazacoin.org/ => https://www.mazacoin.org/: (7, 'Failed 
 		- www.mazacoin.org
 
 -->
-<ruleset name="MazaCoin.org" default_off='failed ruleset test'>
+<ruleset name="MazaCoin.org">
 
 	<!--	Direct rewrites:
 				-->

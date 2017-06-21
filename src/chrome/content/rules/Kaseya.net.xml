@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://provision.relay.kaseya.net/ => https://provision.relay.kaseya.net/: (28, 'Connection timed out after 20000 milliseconds')
-
 	For other Kaseya coverage, see Kaseya.com.xml.
 
 
@@ -12,7 +8,7 @@ Fetch error: http://provision.relay.kaseya.net/ => https://provision.relay.kasey
 	^kaseya.net doesn't exist.
 
 -->
-<ruleset name="Kaseya.net (partial)" default_off='failed ruleset test'>
+<ruleset name="Kaseya.net (partial)">
 
 	<target host="provision.relay.kaseya.net" />
 

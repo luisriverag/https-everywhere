@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://piraten-ufr.de/ => https://piraten-ufr.de/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://mail.piraten-ufr.de/ => https://mail.piraten-ufr.de/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://www.piraten-ufr.de/ => https://www.piraten-ufr.de/: (60, 'SSL certificate problem: certificate has expired')
-
 	For other Pirate Party coverage, see PirateParty.xml.
 
 
@@ -15,7 +9,7 @@ Fetch error: http://www.piraten-ufr.de/ => https://www.piraten-ufr.de/: (60, 'SS
 	* Secured by us
 
 -->
-<ruleset name="Piraten-Ufr.de" default_off='failed ruleset test'>
+<ruleset name="Piraten-Ufr.de">
 
 	<!--	Direct rewrites:
 				-->

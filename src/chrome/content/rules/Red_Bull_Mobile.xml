@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://redbullmobile.com.au/ => https://redbullmobile.com.au/: (51, "SSL: no alternative certificate subject name matches target host name 'redbullmobile.com.au'")
-
 	For rules causing false/broken MCB, see Red_Bull_Mobile-falsemixed.xml.
 
 	For other Red Bull coverage, see Red_Bull.xml.
@@ -80,7 +76,7 @@ Fetch error: http://redbullmobile.com.au/ => https://redbullmobile.com.au/: (51,
 	-falsemixed should be merged for Ffx 24.
 
 -->
-<ruleset name="Red Bull Mobile (partial)" default_off='failed ruleset test'>
+<ruleset name="Red Bull Mobile (partial)">
 
 	<target host="redbullmobile.at" />
 	<target host="www.redbullmobile.at" />

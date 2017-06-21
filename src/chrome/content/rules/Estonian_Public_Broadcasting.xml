@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://err.ee/ => https://err.ee/: Too many redirects while fetching 'https://err.ee/'
-Fetch error: http://otse.err.ee/ => https://otse.err.ee/: Too many redirects while fetching 'https://otse.err.ee/'
-Fetch error: http://www.err.ee/ => https://www.err.ee/: Too many redirects while fetching 'https://www.err.ee/'
-
 	Nonfunctional subdomains:
 
 		- ajakava.dev		(404)
@@ -29,7 +23,7 @@ Fetch error: http://www.err.ee/ => https://www.err.ee/: Too many redirects while
 	*** No https
 
 -->
-<ruleset name="Estonian Public Broadcasting (partial)" default_off='failed ruleset test'>
+<ruleset name="Estonian Public Broadcasting (partial)">
 
 	<target host="err.ee" />
 	<target host="ext.err.ee" />

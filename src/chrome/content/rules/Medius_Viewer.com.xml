@@ -7,7 +7,7 @@ Fetch error: http://services-sj.mediusviewer.com/ => https://services-sj.mediusc
 	services-sj: mismatched, CN: *.mediuscorp.com
 
 -->
-<ruleset name="Medius Viewer.com">
+<ruleset name="Medius Viewer.com" default_off='failed ruleset test'>
 
 	<target host="services-sj.mediusviewer.com" />
 

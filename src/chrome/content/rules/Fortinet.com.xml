@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://partners.fortinet.com/ => https://partners.fortinet.com/: (60, 'SSL certificate problem: self signed certificate')
-
 	Other Fortinet rulesets:
 
 		- FortiGuard.com.xml
@@ -29,7 +25,7 @@ Fetch error: http://partners.fortinet.com/ => https://partners.fortinet.com/: (6
 		- www.fortinet.com
 
 -->
-<ruleset name="Fortinet.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Fortinet.com (partial)">
 
 	<target host="fortinet.com" />
 	<target host="blog.fortinet.com" />

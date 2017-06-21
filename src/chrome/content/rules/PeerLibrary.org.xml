@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.peerlibrary.org/ => https://www.peerlibrary.org/: (51, "SSL: no alternative certificate subject name matches target host name 'www.peerlibrary.org'")
-
 	Nonfunctional subdomains:
 
 		- blog *
@@ -10,7 +6,7 @@ Fetch error: http://www.peerlibrary.org/ => https://www.peerlibrary.org/: (51, "
 	* Tumblr
 
 -->
-<ruleset name="PeerLibrary.org (partial)" default_off='failed ruleset test'>
+<ruleset name="PeerLibrary.org (partial)">
 
 	<target host="peerlibrary.org" />
 	<target host="www.peerlibrary.org" />

@@ -1,4 +1,4 @@
-<ruleset name="1Cart">
+<ruleset name="1Cart" default_off='failed ruleset test'>
 
 	<target host="1cart.com"/>
 	<target host="www.1cart.com"/>

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://origin-www.progress.com/ => https://origin-www.progress.com/: (6, 'Could not resolve host: origin-www.progress.com')
-
 	Other Progress Software rulesets:
 
 		- DataDirect.com.xml
@@ -66,7 +62,7 @@ Fetch error: http://origin-www.progress.com/ => https://origin-www.progress.com/
 	² Secured by us
 
 -->
-<ruleset name="Progress.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Progress.com (partial)">
 
 	<target host="progress.com" />
 	<target host="bizappstoday.progress.com" />

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://admin.checkpoint.thomsonreuters.com/ => https://admin.checkpoint.thomsonreuters.com/: (6, 'Could not resolve host: admin.checkpoint.thomsonreuters.com')
-
 	For rules covering resources which do not secure
 	mixed content, see thomsonreuters.com-resources.xml.
 
@@ -151,7 +147,7 @@ Fetch error: http://admin.checkpoint.thomsonreuters.com/ => https://admin.checkp
 	³ Unsecurable <= refused
 
 -->
-<ruleset name="Thomson Reuters.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Thomson Reuters.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

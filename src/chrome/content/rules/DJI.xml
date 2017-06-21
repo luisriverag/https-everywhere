@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www-dji-china.dji.com/ => https://www-dji-china.dji.com/: (28, 'Operation timed out after 30001 milliseconds with 0 bytes received')
-
 	Incomplete certificate chain:
 		support.dji.com
 
@@ -49,7 +45,7 @@ Fetch error: http://www-dji-china.dji.com/ => https://www-dji-china.dji.com/: (2
 		wiki.dji.com
 
 -->
-<ruleset name="DJI" default_off='failed ruleset test'>
+<ruleset name="DJI">
 	<target host="dji.com" />
 	<target host="www.dji.com" />
 	<target host="account.dji.com" />

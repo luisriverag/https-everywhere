@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://samia.gidnetwork.com/ => https://samia.gidnetwork.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	Other GIDNetwork rulesets:
 
 		- De_Silva.biz.xml
@@ -22,7 +18,7 @@ Fetch error: http://samia.gidnetwork.com/ => https://samia.gidnetwork.com/: (60,
 		- .gidnetwork.com
 
 -->
-<ruleset name="GIDNetwork.com (partial)" default_off='failed ruleset test'>
+<ruleset name="GIDNetwork.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

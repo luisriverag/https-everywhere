@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://ticketcorner.ch/ (200) => https://www.ticketcorner.ch/ (403)
-
 	For other Eventim coverage, see Eventim.xml.
 
 
@@ -11,7 +7,7 @@ Non-2xx HTTP code: http://ticketcorner.ch/ (200) => https://www.ticketcorner.ch/
 		- ^
 
 -->
-<ruleset name="Ticketcorner" default_off='failed ruleset test'>
+<ruleset name="Ticketcorner">
 
 	<target host="ticketcorner.ch" />
 	<target host="*.ticketcorner.ch" />

@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://mbi.mbnet.fi/ => https://mbi.mbnet.fi/: (7, 'Failed to connect to mbi.mbnet.fi port 443: Connection refused')
-Fetch error: http://webmail.mbnet.fi/ => https://webmail.mbnet.fi/: (7, 'Failed to connect to webmail.mbnet.fi port 443: Connection refused')
-
 	^mbnet.fi: Refused
 
 
@@ -13,7 +8,7 @@ Fetch error: http://webmail.mbnet.fi/ => https://webmail.mbnet.fi/: (7, 'Failed 
 		- webmail.mbnet.fi
 
 -->
-<ruleset name="MBnet.fi (partial)" default_off='failed ruleset test'>
+<ruleset name="MBnet.fi (partial)">
 
 	<!--	Direct rewrites:
 				-->

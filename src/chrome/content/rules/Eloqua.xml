@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://cloudconnectors.eloqua.com/ => https://cloudconnectors.eloqua.com/: (6, 'Could not resolve host: cloudconnectors.eloqua.com')
-
 	For problematic rules, see Eloqua-mismatches.xml.
 
 	For other Oracle coverage, see Oracle.xml.
@@ -91,7 +87,7 @@ Fetch error: http://cloudconnectors.eloqua.com/ => https://cloudconnectors.eloqu
 	ᶜ See https://owasp.org/index.php/SecureFlag
 
 -->
-<ruleset name="Eloqua.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Eloqua.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

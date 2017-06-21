@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://wwwl.accuweather.com/ (200) => https://wwwl.accuweather.com/ (403)
-
 	CDN buckets:
 
 		- motox.accu-weather.com.cdngc.net
@@ -26,7 +22,7 @@ Non-2xx HTTP code: http://wwwl.accuweather.com/ (200) => https://wwwl.accuweathe
 		- enterprisesolutions.accuweather.com	(works; self-signed, CN: Parallels Panel)
 
 -->
-<ruleset name="AccuWeather (partial)" default_off='failed ruleset test'>
+<ruleset name="AccuWeather (partial)">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://login.monash.edu/ (200) => https://login.monash.edu/ (404)
-
 	Other Monash University rulesets:
 
 		- Study.Monash.xml
@@ -25,7 +21,7 @@ Non-2xx HTTP code: http://login.monash.edu/ (200) => https://login.monash.edu/ (
 		- Images on (www.)? from www.monash.edu.au
 
 -->
-<ruleset name="Monash.edu (partial)" default_off='failed ruleset test'>
+<ruleset name="Monash.edu (partial)">
 
 	<!--	Direct rewrites:
 				-->

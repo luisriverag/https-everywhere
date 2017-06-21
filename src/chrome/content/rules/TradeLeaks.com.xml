@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://tradeleaks.com/ => https://tradeleaks.com/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://www.tradeleaks.com/ => https://www.tradeleaks.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	NB: politically sensitive => backport?
 
 
@@ -17,7 +12,7 @@ Fetch error: http://www.tradeleaks.com/ => https://www.tradeleaks.com/: (60, 'SS
 	* Secured by us
 
 -->
-<ruleset name="TradeLeaks.com" default_off='failed ruleset test'>
+<ruleset name="TradeLeaks.com">
 
 	<target host="tradeleaks.com" />
 	<target host="www.tradeleaks.com" />

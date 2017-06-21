@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://coindesk.com/ => https://coindesk.com/: Too many redirects while fetching 'https://coindesk.com/'
-Fetch error: http://www.coindesk.com/ => https://www.coindesk.com/: Too many redirects while fetching 'https://www.coindesk.com/'
-
 	Insecure cookies are set for these domains:
 
 		- .coindesk.com
@@ -21,7 +16,7 @@ Fetch error: http://www.coindesk.com/ => https://www.coindesk.com/: Too many red
 	* Secured by us
 
 -->
-<ruleset name="CoinDesk.com (false MCB)" platform="mixedcontent" default_off='failed ruleset test'>
+<ruleset name="CoinDesk.com (false MCB)" platform="mixedcontent">
 
 	<!--	Direct rewrites:
 				-->

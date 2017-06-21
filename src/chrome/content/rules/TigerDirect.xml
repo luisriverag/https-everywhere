@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://biz.tigerdirect.com/ => https://biz.tigerdirect.com/: (60, 'SSL certificate problem: self signed certificate')
-
 	^tigerdirect.com: Akamai
 	www.tigerdirect.com: "Blocked Request"
 
@@ -18,7 +14,7 @@ Fetch error: http://biz.tigerdirect.com/ => https://biz.tigerdirect.com/: (60, '
 		- Image on biz from i\d+.geccdn.net
 
 -->
-<ruleset name="TigerDirect.com (partial)" default_off='failed ruleset test'>
+<ruleset name="TigerDirect.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

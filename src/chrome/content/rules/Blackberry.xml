@@ -1,11 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://developerforums.blackberry.com/? => https://supportforums.blackberry.com/t5/Developer-Support-Forums/ct-p/blackberrydev?: (51, "SSL: no alternative certificate subject name matches target host name 'supportforums.blackberry.com'")
-Fetch error: http://developerforums.blackberry.com/home => https://supportforums.blackberry.com/t5/Developer-Support-Forums/ct-p/blackberrydev: (51, "SSL: no alternative certificate subject name matches target host name 'supportforums.blackberry.com'")
-Fetch error: http://supportforums.blackberry.com/ => https://supportforums.blackberry.com/: (51, "SSL: no alternative certificate subject name matches target host name 'supportforums.blackberry.com'")
-Fetch error: http://developerforums.blackberry.com/ => https://supportforums.blackberry.com/t5/Developer-Support-Forums/ct-p/blackberrydev: (51, "SSL: no alternative certificate subject name matches target host name 'supportforums.blackberry.com'")
-
 	Nonfunctional hosts in *blackberry.com:
 
 		- demos ¹
@@ -62,7 +55,7 @@ Fetch error: http://developerforums.blackberry.com/ => https://supportforums.bla
 	* Secured by us
 
 -->
-<ruleset name="Blackberry.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Blackberry.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

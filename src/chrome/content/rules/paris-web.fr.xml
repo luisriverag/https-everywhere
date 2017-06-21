@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://piwik.paris-web.fr/ => https://piwik.paris-web.fr/: (28, 'Connection timed out after 20000 milliseconds')
-
 	Nonfunctional hosts in *paris-web.fr:
 
 		- direct ᵃ
@@ -11,7 +7,7 @@ Fetch error: http://piwik.paris-web.fr/ => https://piwik.paris-web.fr/: (28, 'Co
 	ᵃ Shows ^paris-web.fr
 
 -->
-<ruleset name="Paris-Web.fr (partial)" default_off='failed ruleset test'>
+<ruleset name="Paris-Web.fr (partial)">
 
 	<target host="paris-web.fr" />
 	<target host="inscriptions.paris-web.fr" />

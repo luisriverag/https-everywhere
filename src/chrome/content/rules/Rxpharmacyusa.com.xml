@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://rxpharmacyusa.com/ => https://rxpharmacyusa.com/: (28, 'Connection timed out after 20001 milliseconds')
-Fetch error: http://www.rxpharmacyusa.com/ => https://www.rxpharmacyusa.com/: (28, 'Connection timed out after 20000 milliseconds')
-
--->
-<ruleset name="rxpharmacyusa.com" default_off='failed ruleset test'>
+<ruleset name="rxpharmacyusa.com">
 
 	<target host="rxpharmacyusa.com" />
 	<target host="www.rxpharmacyusa.com" />

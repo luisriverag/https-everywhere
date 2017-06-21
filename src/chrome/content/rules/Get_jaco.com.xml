@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://getjaco.com/ => https://getjaco.com/: (28, 'Operation timed out after 30001 milliseconds with 0 bytes received')
-
 	Insecure cookies are set for these domains and hosts:
 
 		- .getjaco.com
@@ -17,7 +13,7 @@ Fetch error: http://getjaco.com/ => https://getjaco.com/: (28, 'Operation timed 
 	* Secured by us
 
 -->
-<ruleset name="get jaco.com" default_off='failed ruleset test'>
+<ruleset name="get jaco.com">
 
 	<!--	Direct rewrites:
 				-->

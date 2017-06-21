@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://asgard.paragonie.com/ => https://asgard.paragonie.com/: (6, 'Could not resolve host: asgard.paragonie.com')
-
 	Other Paragon Initiave Enterprise rulesets:
 
 		- Get_ASGard.com.xml
@@ -15,7 +11,7 @@ Fetch error: http://asgard.paragonie.com/ => https://asgard.paragonie.com/: (6, 
 		- .paragonie.com
 
 -->
-<ruleset name="Paragon IE.com" default_off='failed ruleset test'>
+<ruleset name="Paragon IE.com">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://hengxinli.com/ => https://hengxinli.com/: (28, 'Connection timed out after 20001 milliseconds')
-Fetch error: http://www.hengxinli.com/ => https://www.hengxinli.com/: (28, 'Connection timed out after 20000 milliseconds')
-
--->
-<ruleset name="Hengxinli.com" default_off='failed ruleset test'>
+<ruleset name="Hengxinli.com">
 
 	<target host="hengxinli.com" />
 	<target host="www.hengxinli.com" />

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://mirror.fxprime.com/ => https://mirror.fxprime.com/: (28, 'Connection timed out after 20005 milliseconds')
-
 	For other GMO coverage, see GMO_Internet.xml.
 
 
@@ -15,7 +11,7 @@ Fetch error: http://mirror.fxprime.com/ => https://mirror.fxprime.com/: (28, 'Co
 		- mirror
 
 -->
-<ruleset name="FX Prime.com" default_off='failed ruleset test'>
+<ruleset name="FX Prime.com">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://rc.codexns.io/ => https://rc.codexns.io/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	www.codexns.io: Differs from http
 
 
@@ -11,7 +7,7 @@ Fetch error: http://rc.codexns.io/ => https://rc.codexns.io/: (60, 'SSL certific
 		- dev.codexns.io
 
 -->
-<ruleset name="Codex NS.io (partial)" default_off='failed ruleset test'>
+<ruleset name="Codex NS.io (partial)">
 
 	<!--	Direct rewrites:
 				-->

@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://digitalfreedom.io/ => https://digitalfreedom.io/: (28, 'Connection timed out after 20000 milliseconds')
-Fetch error: http://www.digitalfreedom.io/ => https://www.digitalfreedom.io/: (28, 'Connection timed out after 20000 milliseconds')
-
--->
-<ruleset name="Digitalfreedom.io" default_off='failed ruleset test'>
+<ruleset name="Digitalfreedom.io">
 
 	<target host="digitalfreedom.io" />
 	<target host="www.digitalfreedom.io" />

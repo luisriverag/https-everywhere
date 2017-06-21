@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://talentcommunity.bnymellon.com/ => https://talentcommunity.bnymellon.com/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	The Bank of New York Mellon
 
 	Other The Bank of New York Mellon rulesets:
@@ -49,7 +45,7 @@ Fetch error: http://talentcommunity.bnymellon.com/ => https://talentcommunity.bn
 		- jobs.bnymellon.com
 
 -->
-<ruleset name="BNY Mellon.com (partial)" default_off='failed ruleset test'>
+<ruleset name="BNY Mellon.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

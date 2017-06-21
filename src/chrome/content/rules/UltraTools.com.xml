@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://ultratools.com/ => https://ultratools.com/: (51, "SSL: no alternative certificate subject name matches target host name 'ultratools.com'")
-
 	For other Neustar coverage, see NeuStar.xml.
 
 
@@ -11,7 +7,7 @@ Fetch error: http://ultratools.com/ => https://ultratools.com/: (51, "SSL: no al
 		- www.ultratools.com
 
 -->
-<ruleset name="UltraTools.com" default_off='failed ruleset test'>
+<ruleset name="UltraTools.com">
 
 	<!--	Direct rewrites:
 				-->

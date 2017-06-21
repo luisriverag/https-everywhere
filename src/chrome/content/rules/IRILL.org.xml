@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.irill.org/ => https://www.irill.org/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	^irill.org doesn't exist.
 
 
@@ -13,7 +9,7 @@ Fetch error: http://www.irill.org/ => https://www.irill.org/: (60, 'SSL certific
 	* Secured by us
 
 -->
-<ruleset name="IRILL.org" default_off='failed ruleset test'>
+<ruleset name="IRILL.org">
 
 	<target host="www.irill.org" />
 

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://torrent.islamhouse.com/ (200) => https://torrent.islamhouse.com/ (526)
-
 	No working URL known:
 	- social.islamhouse.com
 
@@ -10,7 +6,7 @@ Non-2xx HTTP code: http://torrent.islamhouse.com/ (200) => https://torrent.islam
 	- old.islamhouse.com
 
 -->
-<ruleset name="IslamHouse.com" default_off='failed ruleset test'>
+<ruleset name="IslamHouse.com">
 	<target host="islamhouse.com" />
 	<target host="www.islamhouse.com" />
 	<target host="api.islamhouse.com" />

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://scaleengine.com/ => https://scaleengine.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	Nonfunctional domains:
 
 		- [\w\-\.]+.anycastcdn.net	(CDN)
@@ -12,7 +8,7 @@ Fetch error: http://scaleengine.com/ => https://scaleengine.com/: (60, 'SSL cert
 		- \w+.cdn.scaleengine.net	(CDN; redirects to www.scaleengine.com, depth mismatched)
 
 -->
-<ruleset name="Scale Engine (partial)" default_off='failed ruleset test'>
+<ruleset name="Scale Engine (partial)">
 
 	<target host="scaleengine.com" />
 	<target host="www.scaleengine.com" />

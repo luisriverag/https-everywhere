@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://purplebox.ghostery.com/ => https://purplebox.ghostery.com/: (6, 'Could not resolve host: purplebox.ghostery.com')
-
 	For other Evidon coverage, see Evidon.xml.
 
 
@@ -12,7 +8,7 @@ Fetch error: http://purplebox.ghostery.com/ => https://purplebox.ghostery.com/: 
 		- www.ghostery.com
 
 -->
-<ruleset name="Ghostery.com" default_off='failed ruleset test'>
+<ruleset name="Ghostery.com">
 
 	<!--	Direct rewrites:
 				-->

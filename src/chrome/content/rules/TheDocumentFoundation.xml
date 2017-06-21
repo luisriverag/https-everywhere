@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.blog.documentfoundation.org/ => https://www.blog.documentfoundation.org/: (51, "SSL: no alternative certificate subject name matches target host name 'www.blog.documentfoundation.org'")
-
 	blog is handled in WordPress-blogs.xml.
 
 
@@ -41,7 +37,7 @@ Fetch error: http://www.blog.documentfoundation.org/ => https://www.blog.documen
 	ˢ Secured by us
 
 -->
-<ruleset name="The Document Foundation" default_off='failed ruleset test'>
+<ruleset name="The Document Foundation">
 
 	<target host="documentfoundation.org" />
 	<target host="blog.documentfoundation.org" />

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://nws.weather.gov/nthmp/ (200) => https://nws.weather.gov/nthmp/ (404)
-
 	For other U.S. government coverage, see US-government.xml.
 
 
@@ -62,7 +58,7 @@ Non-2xx HTTP code: http://nws.weather.gov/nthmp/ (200) => https://nws.weather.go
 		- ocwws.weather.gov
 
 -->
-<ruleset name="Weather.gov (partial)" default_off='failed ruleset test'>
+<ruleset name="Weather.gov (partial)">
 
 	<!--target host="alerts.weather.gov" /-->
 	<target host="nwschat.weather.gov" />

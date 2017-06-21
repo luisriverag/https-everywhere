@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://osulibrary.oregonstate.edu/ => https://osulibrary.oregonstate.edu/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Other Oregon State University rulesets:
 
 		- osufoundation.org.xml
@@ -27,7 +23,7 @@ Fetch error: http://osulibrary.oregonstate.edu/ => https://osulibrary.oregonstat
 	ˢ Secured by us, see https://www.paulirish.com/2010/the-protocol-relative-url/
 
 -->
-<ruleset name="Oregon State.edu (partial)" default_off='failed ruleset test'>
+<ruleset name="Oregon State.edu (partial)">
 
 	<!--	Direct rewrites:
 				-->

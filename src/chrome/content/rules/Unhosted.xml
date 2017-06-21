@@ -1,14 +1,10 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://apps.unhosted.org/ => https://apps.unhosted.org/: (6, 'Could not resolve host: apps.unhosted.org')
-
 	Problematic subdomains:
 
 		- www		(self-signed)
 
 -->
-<ruleset name="Unhosted" default_off='failed ruleset test'>
+<ruleset name="Unhosted">
 
 	<target host="unhosted.org" />
 	<target host="www.unhosted.org" />

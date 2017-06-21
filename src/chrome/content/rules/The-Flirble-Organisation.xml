@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://wiki.flirble.org/ => https://wiki.flirble.org/: (6, 'Could not resolve host: wiki.flirble.org')
-
 	Problematic hosts in *flirble.org:
 
 		- domreg *
@@ -19,7 +15,7 @@ Fetch error: http://wiki.flirble.org/ => https://wiki.flirble.org/: (6, 'Could n
 		- www.flirble.org
 
 -->
-<ruleset name="The Flirble Organisation" default_off='failed ruleset test'>
+<ruleset name="The Flirble Organisation">
 
 	<!--	Direct rewrites:
 				-->

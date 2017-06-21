@@ -1,12 +1,8 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://docstorepro.com/ => https://docstorepro.com/: (60, 'SSL certificate problem: certificate has expired')
-
 	For other NiKec Solutions coverage, see NiKec_Solutions.xml.
 
 -->
-<ruleset name="docstorepro.com" default_off='failed ruleset test'>
+<ruleset name="docstorepro.com">
 
 	<target host="docstorepro.com" />
 	<target host="www.docstorepro.com" />

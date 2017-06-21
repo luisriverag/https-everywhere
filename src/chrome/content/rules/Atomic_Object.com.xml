@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://craft-staging.atomicobject.com/ => https://craft-staging.atomicobject.com/: (6, 'Could not resolve host: craft-staging.atomicobject.com')
-
 	Nonfuctional subdomains:
 
 		- spin *
@@ -16,7 +12,7 @@ Fetch error: http://craft-staging.atomicobject.com/ => https://craft-staging.ato
 		- www.atomicobject.com
 
 -->
-<ruleset name="Atomic Object.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Atomic Object.com (partial)">
 
 	<target host="atomicobject.com" />
 	<target host="craft-staging.atomicobject.com" />

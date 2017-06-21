@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://wosign.com/ => https://wosign.com/: (51, "SSL: no alternative certificate subject name matches target host name 'wosign.com'")
-Fetch error: http://support.wosign.com/ => https://support.wosign.com/: (6, 'Could not resolve host: support.wosign.com')
-
 	Other WoSign rulesets:
 		- WoSign.cn.xml
 
@@ -19,7 +14,7 @@ Fetch error: http://support.wosign.com/ => https://support.wosign.com/: (6, 'Cou
 	² Invalid certificate
 	⁴ 404
 -->
-<ruleset name="WoSign.com" default_off='failed ruleset test'>
+<ruleset name="WoSign.com">
 	<target host="wosign.com" />
 	<target host="www.wosign.com" />
 	<target host="api.wosign.com" />

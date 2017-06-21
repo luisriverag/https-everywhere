@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://secure.hrw.org/ => https://secure.hrw.org/: (28, 'Connection timed out after 20001 milliseconds')
-
 	Human Rights Watch
 
 
@@ -33,7 +29,7 @@ Fetch error: http://secure.hrw.org/ => https://secure.hrw.org/: (28, 'Connection
 	² Not secured by us <= mismatched
 
 -->
-<ruleset name="HRW.org (partial)" default_off='failed ruleset test'>
+<ruleset name="HRW.org (partial)">
 
 	<!--	Direct rewrites:
 				-->

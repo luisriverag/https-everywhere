@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://foriswine.com/ => https://www.foriswine.com/: (51, "SSL: no alternative certificate subject name matches target host name 'www.foriswine.com'")
-Fetch error: http://www.foriswine.com/ => https://www.foriswine.com/: (51, "SSL: no alternative certificate subject name matches target host name 'www.foriswine.com'")
-
--->
-<ruleset name="Foris Wine" default_off='failed ruleset test'>
+<ruleset name="Foris Wine">
   <target host="foriswine.com" />
   <target host="www.foriswine.com" />
 

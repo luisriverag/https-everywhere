@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.bluemovie.eu/ => https://www.bluemovie.eu/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-Fetch error: http://bluemovie.eu/ => https://www.bluemovie.eu/: (60, 'SSL certificate problem: unable to get local issuer certificate')
-
 	Nonfunctional domains:
 
 		- movieon.bluemovie.eu
@@ -12,7 +7,7 @@ Fetch error: http://bluemovie.eu/ => https://www.bluemovie.eu/: (60, 'SSL certif
 	^bluemovie.eu: Cert only matches www
 
 -->
-<ruleset name="Blue Movie (partial)" default_off='failed ruleset test'>
+<ruleset name="Blue Movie (partial)">
 
 	<!--	Direct rewrites:
 				-->

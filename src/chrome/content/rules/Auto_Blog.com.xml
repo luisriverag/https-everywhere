@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.autoblog.com/ => https://www.autoblog.com/: Too many redirects while fetching 'https://www.autoblog.com/'
-Fetch error: http://autoblog.com/ => https://www.autoblog.com/: Too many redirects while fetching 'https://www.autoblog.com/'
-
 	For other AOL coverage, see AOL.xml.
 
 
@@ -29,7 +24,7 @@ Fetch error: http://autoblog.com/ => https://www.autoblog.com/: Too many redirec
 			- www.blogsmithmedia.com
 
 -->
-<ruleset name="Auto Blog.com" platform="mixedcontent" default_off='failed ruleset test'>
+<ruleset name="Auto Blog.com" platform="mixedcontent">
 
 	<!--	Direct rewrites:
 				-->

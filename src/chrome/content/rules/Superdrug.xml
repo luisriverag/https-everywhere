@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://www.superdrug.com/combined.css => https://www.superdrug.com/combined.css: Too many redirects while fetching 'https://www.superdrug.com/combined.css'
-
 	Nonfunctional hosts:
 
 		- blog ¹
@@ -26,7 +22,7 @@ Fetch error: http://www.superdrug.com/combined.css => https://www.superdrug.com/
 		- onlinedoctor.superdrug.com
 
 -->
-<ruleset name="Superdrug.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Superdrug.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

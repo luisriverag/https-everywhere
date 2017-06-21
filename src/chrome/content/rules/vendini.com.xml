@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://landing.vendini.com/css/mktLPSupportCompat.css (200) => https://na-ab05.marketo.com/css/mktLPSupportCompat.css (403)
-Non-2xx HTTP code: http://landing.vendini.com/rs/vendini/images/nav_bg.jpg (200) => https://na-ab05.marketo.com/rs/vendini/images/nav_bg.jpg (403)
-
 	Nonfunctional hosts in *vendini.com:
 
 		- ^ *
@@ -34,7 +29,7 @@ Non-2xx HTTP code: http://landing.vendini.com/rs/vendini/images/nav_bg.jpg (200)
 	ᶜ See https://owasp.org/index.php/SecureFlag
 
 -->
-<ruleset name="Vendini.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Vendini.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

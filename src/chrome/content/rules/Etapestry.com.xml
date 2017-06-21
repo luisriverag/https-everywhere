@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://www.etapestry.com/?f (200) => https://www.blackbaud.com/fundraising-crm/etapestry-donor-management.aspx?f (404)
-
 	For other Blackbaud coverage, see Blackbaud.xml.
 
 
@@ -11,7 +7,7 @@ Non-2xx HTTP code: http://www.etapestry.com/?f (200) => https://www.blackbaud.co
 		- (www.)	(mismatched, CN: *.blackbaud.com)
 
 -->
-<ruleset name="etapestry.com" default_off='failed ruleset test'>
+<ruleset name="etapestry.com">
 
 	<!--	Direct rewrites:
 				-->

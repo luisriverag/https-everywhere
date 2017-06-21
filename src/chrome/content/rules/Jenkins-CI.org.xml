@@ -1,9 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://ci.jenkins-ci.org/ => https://ci.jenkins-ci.org/: (51, "SSL: no alternative certificate subject name matches target host name 'ci.jenkins-ci.org'")
-Fetch error: http://svn.jenkins-ci.org/ => https://svn.jenkins-ci.org/: (28, 'Connection timed out after 20000 milliseconds')
--
+<!---
 	Fully covered subdomains:
 
 		- (www.)
@@ -31,7 +26,7 @@ Fetch error: http://svn.jenkins-ci.org/ => https://svn.jenkins-ci.org/: (28, 'Co
 	* Secured by us
 
 -->
-<ruleset name="Jenkins-CI.org" default_off='failed ruleset test'>
+<ruleset name="Jenkins-CI.org">
 
 	<target host="jenkins-ci.org" />
 	<target host="ci.jenkins-ci.org" />

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://wmp.americanrifleman.org/ => https://wmp.americanrifleman.org/: (60, 'SSL certificate problem: certificate has expired')
-
 	For other National Rifle Association coverage, see nra.org.xml.
 
 
@@ -13,7 +9,7 @@ Fetch error: http://wmp.americanrifleman.org/ => https://wmp.americanrifleman.or
 	ˢ Secured by us, see https://www.paulirish.com/2010/the-protocol-relative-url/
 
 -->
-<ruleset name="American Rifleman.org" default_off='failed ruleset test'>
+<ruleset name="American Rifleman.org">
 
 	<target host="americanrifleman.org" />
 	<target host="assets.americanrifleman.org" />

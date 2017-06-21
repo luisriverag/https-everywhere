@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://design.jboss.org/ => https://design.jboss.org/: Too many redirects while fetching 'https://design.jboss.org/'
-Fetch error: http://jboss.jboss.org/ => https://jboss.jboss.org/: (6, 'Could not resolve host: jboss.jboss.org')
-
 	For other Red Hat coverage, see RedHat.xml.
 
 
@@ -13,7 +8,7 @@ Fetch error: http://jboss.jboss.org/ => https://jboss.jboss.org/: (6, 'Could not
 		- issues.jboss.org
 
 -->
-<ruleset name="JBoss.org" default_off='failed ruleset test'>
+<ruleset name="JBoss.org">
 
 	<target host="jboss.org" />
 	<target host="*.jboss.org" />

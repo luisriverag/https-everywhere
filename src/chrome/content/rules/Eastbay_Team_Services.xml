@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://eastbayteamservices.com/ => http://eastbayteamservices.com/: (28, 'Connection timed out after 20001 milliseconds')
-
 	For other Foot Locker rulesets, see Foot_Locker_Inc.xml.
 
 
@@ -14,7 +10,7 @@ Fetch error: http://eastbayteamservices.com/ => http://eastbayteamservices.com/:
 		- ^		(expired, cert only matches www)
 
 -->
-<ruleset name="Eastbay Team Services" default_off='failed ruleset test'>
+<ruleset name="Eastbay Team Services">
 
 	<target host="eastbayteamservices.com" />
 	<target host="www.eastbayteamservices.com" />

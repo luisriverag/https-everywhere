@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://secure.legolanddiscoverycenter.com/ => https://secure.legolanddiscoverycenter.com/: (6, 'Could not resolve host: secure.legolanddiscoverycenter.com')
-Fetch error: http://secure.legolanddiscoverycentre.co.uk/ => https://secure.legolanddiscoverycentre.co.uk/: (7, 'Failed to connect to secure.legolanddiscoverycentre.co.uk port 443: Connection refused')
-
 	For other Merlin Entertainments coverage, see Merlin-Entertainments.xml.
 
 	Non-functional subdomain:
@@ -15,7 +10,7 @@ Fetch error: http://secure.legolanddiscoverycentre.co.uk/ => https://secure.lego
 
 	¹ cert mismatch
 -->
-<ruleset name="LEGOLAND Discovery Centre" default_off='failed ruleset test'>
+<ruleset name="LEGOLAND Discovery Centre">
 	<target host="legolanddiscoverycenter.com" />
 	<target host="secure.legolanddiscoverycenter.com" />
 	<target host="www.legolanddiscoverycenter.com" />

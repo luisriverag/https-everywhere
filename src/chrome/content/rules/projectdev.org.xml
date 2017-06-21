@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://wiki.projectdev.org/ => https://wiki.projectdev.org/: (6, 'Could not resolve host: wiki.projectdev.org')
-Fetch error: http://web.projectdev.org/ => https://web.projectdev.org/: (60, 'SSL certificate problem: certificate has expired')
-
--->
-<ruleset name="projectdev.org" default_off='failed ruleset test'>
+<ruleset name="projectdev.org">
 	<target host="projectdev.org" />
 	<target host="www.projectdev.org" />
 	<target host="wiki.projectdev.org" />

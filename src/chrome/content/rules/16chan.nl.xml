@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://16chan.nl/ => https://16chan.nl/: (7, 'Failed to connect to 16chan.nl port 443: Connection refused')
-Fetch error: http://www.16chan.nl/ => https://16chan.nl/: (7, 'Failed to connect to 16chan.nl port 443: Connection refused')
-
 	www.16chan.nl: Mismatched
 
 
@@ -14,7 +9,7 @@ Fetch error: http://www.16chan.nl/ => https://16chan.nl/: (7, 'Failed to connect
 	ᶜ See https://owasp.org/index.php/SecureFlag
 
 -->
-<ruleset name="16chan.nl" default_off='failed ruleset test'>
+<ruleset name="16chan.nl">
 
 	<!--	Direct rewrites:
 				-->

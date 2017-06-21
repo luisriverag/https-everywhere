@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://optionsanimal.com/ (200) => https://optionsanimal.com/ (526)
-
 	CDN buckets:
 
 		- optionsanimal.optionsanimal.netdna-cdn.com
@@ -21,7 +17,7 @@ Non-2xx HTTP code: http://optionsanimal.com/ (200) => https://optionsanimal.com/
 	* Secured by us
 
 -->
-<ruleset name="OptionsAnimal.com" default_off='failed ruleset test'>
+<ruleset name="OptionsAnimal.com">
 
 	<target host="optionsanimal.com" />
 	<target host="*.optionsanimal.com" />

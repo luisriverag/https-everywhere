@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://static13.cdn.ubi.com/ => https://ubistatic13-a.akamaihd.net/: (6, 'Could not resolve host: ubistatic13-a.akamaihd.net')
-Fetch error: http://static16.ubi.com/ => https://s3.amazonaws.com/static16.ubi.com/: Redirect for 'https://s3.amazonaws.com/static16.ubi.com/' missing location header
-
 	For other Ubisoft Group coverage, see Ubisoft_Group.com.xml.
 
 
@@ -83,7 +78,7 @@ Fetch error: http://static16.ubi.com/ => https://s3.amazonaws.com/static16.ubi.c
 	* Secured by us
 
 -->
-<ruleset name="Ubisoft Entertainment (partial)" platform="mixedcontent" default_off='failed ruleset test'>
+<ruleset name="Ubisoft Entertainment (partial)" platform="mixedcontent">
 
 	<target host="*.ubi.com" />
 		<exclusion pattern="^http://(?:forums|www)\." />

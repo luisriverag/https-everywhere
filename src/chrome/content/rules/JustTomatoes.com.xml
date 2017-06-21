@@ -1,11 +1,4 @@
-
-<!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://justtomatoes.com/ => https://www.justtomatoes.com/: (60, 'SSL certificate problem: certificate has expired')
-Fetch error: http://www.justtomatoes.com/ => https://www.justtomatoes.com/: (60, 'SSL certificate problem: certificate has expired')
-
--->
-<ruleset name="JustTomatoes.com" platform="mixedcontent" default_off='failed ruleset test'>
+<ruleset name="JustTomatoes.com" platform="mixedcontent">
   <target host="justtomatoes.com" />
   <target host="www.justtomatoes.com" />
 

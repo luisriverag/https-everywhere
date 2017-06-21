@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://lists.ntp.org/ => https://lists.ntp.org/: (60, 'SSL certificate problem: certificate has expired')
-
 	Remark: [0-9].*pool.ntp.org are completely omitted here. 
 		*.pool.ntp.org are omitted if they do not give SSL error.
 
@@ -74,7 +70,7 @@ Fetch error: http://lists.ntp.org/ => https://lists.ntp.org/: (60, 'SSL certific
 			 - support.ntp.org
 			 - twiki.ntp.org
 -->
-<ruleset name="NTP.org (partial)" default_off='failed ruleset test'>
+<ruleset name="NTP.org (partial)">
 	<target host="lists.ntp.org" />
 
 	<securecookie host="^lists\.ntp\.org$" name=".+" />

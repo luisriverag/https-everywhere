@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://espanol.crocs.com/ => https://espanol.crocs.com/: (51, "SSL: no alternative certificate subject name matches target host name 'espanol.crocs.com'")
-
 		- phx.corporate-ir.net
 
 			- a121.g.akamai.net
@@ -31,7 +27,7 @@ Fetch error: http://espanol.crocs.com/ => https://espanol.crocs.com/: (51, "SSL:
 		- images
 
 -->
-<ruleset name="Crocs" default_off='failed ruleset test'>
+<ruleset name="Crocs">
 
 	<target host="crocs.com" />
 	<target host="www.crocs.com" />

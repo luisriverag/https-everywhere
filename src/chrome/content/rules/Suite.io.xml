@@ -1,10 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://suite.io/ => https://suite.io/: (6, 'Could not resolve host: suite.io')
-Fetch error: http://static.suite.io/ => https://static.suite.io/: (6, 'Could not resolve host: static.suite.io')
-Fetch error: http://www.suite.io/ => https://suite.io/: (6, 'Could not resolve host: suite.io')
-
 	www: Cert only matches ^suite.io
 
 
@@ -14,7 +8,7 @@ Fetch error: http://www.suite.io/ => https://suite.io/: (6, 'Could not resolve h
 		- static
 
 -->
-<ruleset name="Suite.io" default_off='failed ruleset test'>
+<ruleset name="Suite.io">
 
 	<!--	Direct rewrites:
 				-->

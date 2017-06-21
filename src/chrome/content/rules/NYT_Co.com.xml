@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://kronos-time.nytco.com/ => https://kronos-time.nytco.com/: (6, 'Could not resolve host: kronos-time.nytco.com')
-
 	For other New York Times coverage, see NYTimes.xml.
 
 	521:
@@ -23,7 +19,7 @@ Fetch error: http://kronos-time.nytco.com/ => https://kronos-time.nytco.com/: (6
 		- .nytco.com
 		- myexpenses.nytco.com
 -->
-<ruleset name="NYT_Co.com (partial)" default_off='failed ruleset test'>
+<ruleset name="NYT_Co.com (partial)">
 	<target host="kronos-time.nytco.com" />
 
 	<securecookie host=".+" name=".+" />

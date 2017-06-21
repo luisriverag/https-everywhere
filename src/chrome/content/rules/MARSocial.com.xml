@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://marsocial.com/ => https://marsocial.com/: (28, 'Connection timed out after 20001 milliseconds')
-Fetch error: http://www.marsocial.com/ => https://www.marsocial.com/: (28, 'Connection timed out after 20001 milliseconds')
-
 	Insecure cookies are set for these domains and hosts:
 
 		- marsocial.com
@@ -17,7 +12,7 @@ Fetch error: http://www.marsocial.com/ => https://www.marsocial.com/: (28, 'Conn
 	* Not secured by us <= missing certificate chain
 
 -->
-<ruleset name="MARSocial.com" default_off='failed ruleset test'>
+<ruleset name="MARSocial.com">
 
 	<!--	Direct rewrites:
 				-->

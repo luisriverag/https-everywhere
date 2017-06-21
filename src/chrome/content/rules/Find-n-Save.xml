@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://cdn.findnsave.com/ => https://d3ne1tggqg4fzy.cloudfront.net/: (28, 'Operation timed out after 30001 milliseconds with 0 bytes received')
-
 	CDN buckets:
 
 		- imagecdn.findnsave.com.cdngc.net
@@ -40,7 +36,7 @@ Fetch error: http://cdn.findnsave.com/ => https://d3ne1tggqg4fzy.cloudfront.net/
 
 
 -->
-<ruleset name="Find n Save.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Find n Save.com (partial)">
 
 	<!--	Direct rewrites:
 				-->

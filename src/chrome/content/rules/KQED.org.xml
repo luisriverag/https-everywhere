@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://u.s.kqed.org/ (200) => https://u.s.kqed.net/ (403)
-
 	Nonfunctional domains:
 
 		- blogs.kqed.org	(403/404, valid cert)
@@ -16,7 +12,7 @@ Non-2xx HTTP code: http://u.s.kqed.org/ (200) => https://u.s.kqed.net/ (403)
 	² Redirects to http
 
 -->
-<ruleset name="KQED.org (partial)" default_off='failed ruleset test'>
+<ruleset name="KQED.org (partial)">
 
 	<!--	Direct rewrites:
 				-->

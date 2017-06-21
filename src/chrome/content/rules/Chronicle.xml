@@ -1,9 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://chronicle.com/ => https://chronicle.com/: Too many redirects while fetching 'https://chronicle.com/'
-Fetch error: http://www.chronicle.com/ => https://chronicle.com/: Too many redirects while fetching 'https://chronicle.com/'
-
 	The Chronicle of Higher Education
 
 	Other Chronicle of Higher Education rulesets:
@@ -23,7 +18,7 @@ Fetch error: http://www.chronicle.com/ => https://chronicle.com/: Too many redir
 	² Rule disabled by default
 
 -->
-<ruleset name="Chronicle.com (partial)" default_off='failed ruleset test'>
+<ruleset name="Chronicle.com (partial)">
 
 	<target host="chronicle.com" />
 	<target host="www.chronicle.com" />

@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Fetch error: http://iopscience.iop.org/ => https://iopscience.iop.org/: (28, 'Operation timed out after 30001 milliseconds with 0 bytes received')
-
 	Institute of Physics
 
 	For problematic rules, see Institute-of-Physics-mismatches.xml.
@@ -43,7 +39,7 @@ Fetch error: http://iopscience.iop.org/ => https://iopscience.iop.org/: (28, 'Op
 	ᵐ Rule disabled by default <= mismatched
 
 -->
-<ruleset name="IoP.org (partial)" default_off='failed ruleset test'>
+<ruleset name="IoP.org (partial)">
 
 	<!--	Direct rewrites:
 				-->

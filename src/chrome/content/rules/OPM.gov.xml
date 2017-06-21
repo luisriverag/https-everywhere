@@ -1,8 +1,4 @@
-
 <!--
-Disabled by https-everywhere-checker because:
-Non-2xx HTTP code: http://www.servicesonline.opm.gov/ (200) => https://www.servicesonline.opm.gov/ (403)
-
 
 	Other US government rulesets:
 		- Argonne-National-Laboratory.xml
@@ -105,7 +101,7 @@ Non-2xx HTTP code: http://www.servicesonline.opm.gov/ (200) => https://www.servi
 	ˢ Secured by us
 
 -->
-<ruleset name="OPM.gov" default_off='failed ruleset test'>
+<ruleset name="OPM.gov">
 
 	<!--	Direct rewrites:
 					-->
